@@ -1,0 +1,858 @@
+© Leibniz-Institut für Deutsche Sprache, Mannheim
+COSMAS II-Server, C2API-Version 4.20.6 - 06.08.2021
+________________________________________________________________________________
+
+Datum         : Freitag, den 3. September 2021, 13:28:41
+Archiv        : W - Archiv der geschriebenen Sprache
+Korpus        : NN_17_20
+Archiv-Release: Deutsches Referenzkorpus DeReKo-2021-I
+Suchanfrage   : Klimakrise
+Suchoptionen  : Ei+Ri+Di, Flex
+Ergebnis      : 164 Treffer
+
+
+Belege (unsortiert)
+
+Anz. Treffer           : 164
+Anz. exportierte Belege: 164
+Angezeigter Kontext    : 1 Satz links, 1 Satz rechts
+Kontext umschließt     : gesamten Treffer
+________________________________________________________________________________
+NUN17/JUN.01164 Nürnberger Nachrichten, 15.06.2017, S. 32; Gewässer mit Mängeln - Zustand deutscher Seen und Flüsse oft unbefriedigend [Ausführliche Zitierung nicht verfügbar]
+
+ Über die Hälfte aller Gewässer in Deutschland sind in einem miserablen ökologischen Zustand, sagte die Klima-Expertin der Grünen-Bundestagsfraktion, Annalena Baerbock. Die Bundesregierung hat den Einfluss der <B>Klimakrise</> auf unsere heimischen Gewässer nicht auf dem Schirm. Der umweltpolitische Sprecher Peter Meiwald kritisierte, die Umweltbilanz der Großen Koalition sei auch im Bereich des Gewässerschutzes verheerend.
+Zustand deutscher Seen und Flüsse oft unbefriedigend
+
+NUN18/APR.00978 Nürnberger Nachrichten, 14.04.2018, S. 2; Lasst uns reden  zwei Jahre lang - Die Grünen arbeiten am dritten Grundsatzprogramm in ihrer Geschichte [Ausführliche Zitierung nicht verfügbar]
+
+ Harald Ebner (Bundestag) und Martin Häusling (Europäisches Parlament) warnen vor der neuen Aufgeschlossenheit gegenüber der lange verpönten Technik. Was Mittel zur Lösung von Welternährungsfragen und <B>Klimakrise</> angeht, sagt Ebner, so zeigen alle Erfahrungen, dass es dazu Gentechnik nicht braucht. Auch wenn man von neuer Gentechnik spreche, so bleibe es trotzdem dabei: Es wird an Genen rumgepfuscht.
+Wenn es cool läuft
+
+NUN18/AUG.01940 Nürnberger Nachrichten, 08.08.2018, S. 3; Klimawandel bedroht Lebensgrundlagen auf der ganzen Welt // Langeoog kämpft mit einer Klage um seine Existenz [Ausführliche Zitierung nicht verfügbar]
+
+ Die 35-Jährige ist fasziniert davon, wie viele verschiedene Klimazonen es allein in Deutschland gibt, das man ja zu kennen glaubt: Ich war vor kurzem auf der Zugspitze auf 3000 Metern Höhe und bin jetzt hier auf fünf Metern Höhe: Überall sind die Folgen des Klimawandels zu sehen.
+Auf Langeoog, einer FairTrade-Insel ohne Autos, hat Umweltpolitikerin Badum den Eindruck, dass das Bewusstsein für die <B>Klimakrise</> schon vorhanden ist. Michael Recktenwald bestätigt das. Er erhält sehr positive Reaktionen, von Einheimischen wie von Gästen: Die einzige Alternative ist, nichts zu tun, meint er.
+
+NUN18/AUG.02040 Nürnberger Nachrichten, 09.08.2018, S. 12; Wettlauf gegen die Zeit Umweltschutzverband BUND stellt Klima-Nothilfeplan vor [Ausführliche Zitierung nicht verfügbar]
+
+
+Wettlauf gegen die Zeit
+Die aktuelle Hitzewelle und dann wieder Wetterextreme wie Starkregen machen uns Menschen zu schaffen: Die Folgen der <B>Klimakrise</> sind nach Angaben des BUND-Vorsitzenden Hubert Weiger schon deutlich spürbar. So ist die Durchschnittstemperatur in Bayern in den vergangenen 20 Jahren um 1,5 Grad gestiegen, gleichzeitig verringerte sich die Niederschlagsmenge um 20 Prozent.
+
+NUN18/AUG.02040 Nürnberger Nachrichten, 09.08.2018, S. 12; Wettlauf gegen die Zeit Umweltschutzverband BUND stellt Klima-Nothilfeplan vor [Ausführliche Zitierung nicht verfügbar]
+
+
+Auch in der Landwirtschaft sei viel zu tun. So sei Deutschland Spitzenreiter in der Fleischproduktion  doch trage die industrielle Fleischproduktion wesentlich zur <B>Klimakrise</> bei. Ein Zurückfahren der Exporte sei unumgänglich.
+
+NUN18/AUG.02713 Nürnberger Nachrichten, 17.08.2018, S. 4; Heimat wird nicht weniger, wenn man sie mit anderen teilt Cem Özdemir über Ausgrenzung, die Ziele der Grünen und Koalitionen mit der CSU [Ausführliche Zitierung nicht verfügbar]
+
+ Für uns geht es erst mal darum, die Grünen so stark wie möglich zu machen. In beiden Fällen  ob in der Regierung oder in der Opposition  ist das Ergebnis der Grünen ein Gradmesser dafür, wie wichtig den Leuten der Kampf gegen die <B>Klimakrise</> ist, wie wichtig den Leuten der Kampf für ein menschliches Bayern ist und wie wichtig ihnen eine moderne Infrastruktur ist.
+Aber verprellen Sie nicht Wähler, wenn Sie eine Koalition nicht ausschließen?
+
+NUN18/AUG.02713 Nürnberger Nachrichten, 17.08.2018, S. 4; Heimat wird nicht weniger, wenn man sie mit anderen teilt Cem Özdemir über Ausgrenzung, die Ziele der Grünen und Koalitionen mit der CSU [Ausführliche Zitierung nicht verfügbar]
+
+ Die Heimat zu schützen heißt für uns auch, die Heimat anderer zu bewahren, damit Menschen überall dort, wo sie leben, menschenwürdig leben können. Das bedeutet: Kampf gegen die <B>Klimakrise</> und Einsatz für eine gerechte Weltwirtschaftsordnung.
+Sie sind weder Parteichef noch Fraktionschef.
+
+NUN18/SEP.00347 Nürnberger Nachrichten, 05.09.2018, S. 16; Zugeständnisse an die Landwirte - Versprechen der CSU werden von SPD und Bund Naturschutz harsch kritisiert [Ausführliche Zitierung nicht verfügbar]
+
+
+Der Bund Naturschutz kritisierte den Pakt als rückwärtsgewandt und unzureichend. Er gibt auf die aktuellen Herausforderungen der <B>Klimakrise</> und des Zusammenbruches der Artenvielfalt in Wald, Flur und Feld keine überzeugenden Antworten, sagte der Vorsitzende Richard Mergner.
+Horst Arnold, der agrarpolitische Sprecher der SPD-Landtagsfraktion, kritisierte, dass die Maßnahmen der Staatsregierung lediglich aufgewärmte Vorschläge seien.
+
+NUN18/SEP.01637 Nürnberger Nachrichten, 21.09.2018, S. 8; Nicht meckern, sondern machen! Wie ist das, als junger Mensch in den Landtag zu kommen [Ausführliche Zitierung nicht verfügbar]
+
+ Irgendwann habe ich dann gemerkt, dass mich immer mehr umtreibt, was man auf politischer Ebene ändern muss. Wie bekämpfen wir die <B>Klimakrise</> und den Anstieg des Rechtsextremismus? Warum verdienen Frauen immer noch weniger als Männer für die gleiche Arbeit? Katharina Schulze erkannte: Nur wenn man sich politisch einbringt, dort, wo die Gesetze direkt gemacht werden, kann man die Gesellschaft verändern. Und dann trat sie in die Jugendorganisation der Grünen, die Grüne Jugend, ein.
+
+NUN18/SEP.01789 Nürnberger Nachrichten, 22.09.2018, S. 4; Mit Öko-Anbau gegen die Heißzeit - Grünen-Fraktionschef Toni Hofreiter zur Klima-Krise und zur Affäre um Hans-Georg Maaßen [Ausführliche Zitierung nicht verfügbar]
+
+ Es gibt so viele Dinge, die dringend entschieden werden müssen: Deutschland müsste zum Beispiel seine Führungsstärke in der Europäischen Union nutzen, aber die Regierung ist offensichtlich blockiert. Wir erleben eine <B>Klimakrise,</> wo die Regierung ebenfalls handlungsunfähig ist. Statt sich um saubere Luft und die längst mögliche Nachrüstung von manipulierten Diesel-Fahrzeugen zu kümmern, reibt sich die Regierung in persönlichen Streitigkeiten auf.
+
+NUN18/SEP.01789 Nürnberger Nachrichten, 22.09.2018, S. 4; Mit Öko-Anbau gegen die Heißzeit - Grünen-Fraktionschef Toni Hofreiter zur Klima-Krise und zur Affäre um Hans-Georg Maaßen [Ausführliche Zitierung nicht verfügbar]
+
+ Sind Ihre Parteifreunde so lernfähig, das jetzt nicht mehr zu tun?
+Hofreiter: Ich hoffe, dass wir die richtigen Ideen zur richtigen Zeit haben (lacht laut)... <B>Klimakrise,</> Wohnungsnot, die völlige Abgehobenheit der CSU  vielen Leuten ist klar, dass unsere Ideen die besten sind für die Lösung der Probleme. Und das zeigen wir.
+
+NUN18/DEZ.01727 Nürnberger Nachrichten, 21.12.2018, S. 29; Von der Krise zur Katastrophe [Ausführliche Zitierung nicht verfügbar]
+
+ Und vermutlich ist das nicht nur bei uns und in Trumpland so...
+Laut UN-Generalsekretär Antonio Guterres ist der Klimaschutz eine Frage von Leben und Tod. Wäre es da nicht an der Zeit, den verharmlosenden Begriff Klimawandel durch <B>Klimakrise</> zu ersetzen? Vielleicht begreifen wir dann besser, dass Guterres recht hat, weil sich die Klimakrise in wenigen Jahrzehnten zu einer Klimakatastrophe entwickeln kann!
+
+NUN18/DEZ.01727 Nürnberger Nachrichten, 21.12.2018, S. 29; Von der Krise zur Katastrophe [Ausführliche Zitierung nicht verfügbar]
+
+
+Laut UN-Generalsekretär Antonio Guterres ist der Klimaschutz eine Frage von Leben und Tod. Wäre es da nicht an der Zeit, den verharmlosenden Begriff Klimawandel durch Klimakrise zu ersetzen? Vielleicht begreifen wir dann besser, dass Guterres recht hat, weil sich die <B>Klimakrise</> in wenigen Jahrzehnten zu einer Klimakatastrophe entwickeln kann!
+Unsere Regierung wird sich nicht so für den Klimaschutz einsetzen, wie es dringend nötig wäre.
+
+NUN18/DEZ.02185 Nürnberger Nachrichten, 29.12.2018, S. 14; BN: Weckruf für bäuerliche Landwirtschaft - Naturschutzverband zieht Bilanz für das Wahljahr 2018  Wachsam gegen wachsenden Flächenverbrauch [Ausführliche Zitierung nicht verfügbar]
+
+ Die neue Staatsregierung aus CSU und Freien Wählern (FW) hat sich vorgenommen, den Flächenverbrauch von derzeit etwa 11,7 Hektar pro Tag auf fünf Hektar zu verringern.
+Trotz Artensterben und <B>Klimakrise</> ist das zurückliegende Jahr für Mergner insgesamt ein erfreuliches gewesen. Es weht ein frischer ökologischer Wind durch Bayern, stellte er fest.
+
+NUN19/JAN.02035 Nürnberger Nachrichten, 26.01.2019, S. 1; Schüler lassen nicht locker - Jugendliche aus Franken protestieren in Berlin für besseren Klimaschutz [Ausführliche Zitierung nicht verfügbar]
+
+
+Schüler lassen nicht locker
+Die Jugendlichen wollten nach Angaben einer Sprecherin deutlich machen, dass die Politik die <B>Klimakrise</> ernst nehmen und handeln müsse. Wir sind hier richtig viele, es geht richtig los, sagte Luisa Neubauer für die Bewegung Fridays for Future (Freitage für die Zukunft).Die Organisatoren sprachen von einigen Tausend Demonstranten, von der Polizei gab es dazu keine Angaben.
+
+NUN19/FEB.00646 Nürnberger Nachrichten, 08.02.2019, S. 6; Der Greta-Effekt - Fürs Klima, gegen Waffen, gegen Plastik: Vielerorts kämpfen junge Aktivisten für eine bessere Welt [Ausführliche Zitierung nicht verfügbar]
+
+ Was macht den Greta-Effekt aus? Sicher gehören klare Aussagen und persönliche Betroffenheit dazu: In Kattowitz 2018 und Anfang 2019 in der Schweiz, erklärte sie der Welt die Dringlichkeit der <B>Klimakrise.Zum</> anderen nutzt die junge Schwedin ein Werkzeug, das frühere Generationen nicht hatten: das Internet. Die 16-Jährige weiß, dass sie mit ihrem Protest in den sozialen Netzwerken Ländergrenzen spielend überspringt.
+
+NUN19/MAR.00278 Nürnberger Nachrichten, 04.03.2019, S. 4; Merkel stützt Schülerdemos - Kanzlerin zieht sich Kritik aus der eigenen Partei zu [Ausführliche Zitierung nicht verfügbar]
+
+ Thunberg nahm am Freitag an einem Protestmarsch mit mehreren Tausend Teilnehmern in Hamburg teil. Politiker und Leute an der Macht sind schon zu lange damit durchgekommen, nichts zu tun, um die <B>Klimakrise</> zu bekämpfen, sagte sie dort.
+Aus der eigenen Partei erntete Merkel heftigen Widerspruch.
+
+NUN19/MAR.01022 Nürnberger Nachrichten, 13.03.2019, S. 1; Rückenwind von Profis - 12 000 Wissenschaftler unterstützen Fridays for Future [Ausführliche Zitierung nicht verfügbar]
+
+ Ärzte haben die Aufgabe Leben zu schützen und auf Gesundheitsgefahren hinzuweisen. Die <B>Klimakrise</> ist die größte Gesundheitsgefahr, warnte Unterstützer Eckart von Hirschhausen, Arzt und Wissenschaftsjournalist in Berlin.
+Schüler und Studenten in Deutschland und aller Welt demonstrieren jeden Freitag während des Unterrichts unter dem Motto Fridays for Future für den Klimaschutz.
+
+NUN19/MAR.02351 Nürnberger Nachrichten, 29.03.2019, S. 12; Als Neunjähriger wurde er zum Vorreiter in Sachen Umweltschutz [Ausführliche Zitierung nicht verfügbar]
+
+
+Der Eisbär war damals mein Lieblingstier, sagt Finkbeiner heute.Doch um den allein gehe es schon lang nicht mehr. Wichtig sei der Kampf gegen die <B>Klimakrise,</> die Wasser- und Lebensmittelknappheit sowie politische Konflikte mit sich bringt. Mit 21 Jahren setzt er sich immer noch für diesen Kampf ein, schreibt in Zürich an seiner Doktorarbeit in Ökologie und ist nach wie vor ein echter Baum-Fan.
+
+NUN19/APR.00387 Nürnberger Nachrichten, 05.04.2019, S. 12; Schulen in der Zwickmühle - Klimastreik: Das Ministerium macht es sich zu leicht [Ausführliche Zitierung nicht verfügbar]
+
+ Schließlich, so formuliert es die inzwischen berühmte Klimaaktivistin Greta Thunberg, wird meine Stimme viel eher gehört, wenn ich schwänze. Und so werden auch heute wieder Jugendliche im Freistaat für ihr Anliegen auf die Straße gehen  und möglicherweise wegen Schulschwänzens bestraft.
+Dabei geht es in den Augen der jungen Demonstranten um nichts Geringeres als um eine lebenswerte Zukunft, die sie durch eine <B>Klimakrise</> (und das behäbige Nichtstun der Erwachsenen) bedroht sehen. Deshalb streiken die Jungen als Teil der #FridaysforFuture-Bewegung und tun, nebenbei bemerkt, genau das, was sie angeblich oft vermissen lassen: sie engagieren sich.
+
+NUN19/MAI.00243 Nürnberger Nachrichten, 04.05.2019, S. 23; Klare Worte - Junge Klima-Aktivistin las Chef und Aktionären von RWE die Leviten [Ausführliche Zitierung nicht verfügbar]
+
+
+Essen.Die RWE-Hauptversammlung hat sich zu einem Schlagabtausch zwischen der Schüler-Protestbewegung Fridays For Future und dem Stromkonzern entwickelt.
+Luisa Neubauer, Studentin und Gesicht der Klimaschutzbewegung, hatte Rederecht und sagte: Kein Konzern in ganz Europa trägt mehr Verantwortung für die <B>Klimakrise</> als RWE. Die RWE-Aktionäre verkauften ihre Verantwortung für ein paar Cent Rendite. Sie dürften sich nicht zu schweigenden Komplizen von Konzernchef Rolf Martin Schmitz machen.Wer nach 2030 noch ernsthaft plane, Kohle zu verstromen, hat nicht verstanden, in welcher Krise wir sind, kritisierte die 23-Jährige.
+Die Kohlekommission hatte das Kohle-Aus für 2038 empfohlen.
+
+NUN19/MAI.00393 Nürnberger Nachrichten, 07.05.2019, S. 2; Wir Unersättlichen - Der Report zum Artensterben zeigt, wie drastisch sich der Mensch auf dem Planeten breitmacht [Ausführliche Zitierung nicht verfügbar]
+
+
+Weg vom Wachstum
+Die Zerstörung der biologischen Vielfalt bedroht die Menschheit mindestens so sehr wie die <B>Klimakrise,</> sagt der in Fürth lebende Chef des Umweltverbands BUND, Hubert Weiger. Die weltweite Rate des Artensterbens ist dem Bericht zufolge derzeit zehn- bis hundertmal höher als im Schnitt der vergangenen zehn Millionen Jahre und sie steige weiter, heißt es in dem IPBES-Kernpunktepapier.
+
+NUN19/MAI.00739 Nürnberger Nachrichten, 11.05.2019, S. 4; [KURZE]Pro - Protest schafft Bewusstsein - Schüler als Klimaschutz-Profis [Ausführliche Zitierung nicht verfügbar]
+
+ Das Argument, dass Greta nur redet und nicht handelt, deshalb also nicht besser wäre als jene, die sie anklagt, habe ich schon gehört. Greta lebt nicht nur so umweltschonend wie kaum jemand anderes (sie spart Energie daheim, lebt vegan, verzichtet aufs Fliegen), sondern hat auch viel mehr erreicht als alle Politiker bisher: Die <B>Klimakrise</> wird so stark diskutiert wie noch nie, der Bevölkerung wird sich der Bedrohung endlich bewusst. Greta hat bewirkt, dass Schüler in der ganzen Welt zu
+
+NUN19/MAI.00792 Nürnberger Nachrichten, 13.05.2019, S. 4; NAMEN IM GESPRÄCH [Ausführliche Zitierung nicht verfügbar]
+
+ Ich will, dass die Politiker in Dänemark aufwachen und endlich etwas für das Klima tun, sagt der junge Mann. Viel zu lange sei die <B>Klimakrise</> politisch ignoriert worden, nun werde zumindest darüber geredet. Was wir aber brauchen, ist ein wirkliches Handeln, erklärte Brix.dpa
+
+NUN19/MAI.01812 Nürnberger Nachrichten, 25.05.2019, S. 1; Klimastreik zur EU-Wahl - Beim bislang größten globalen Umweltprotesttag machen allein 320 000 Schüler und Studenten in Deutschland Druck [Ausführliche Zitierung nicht verfügbar]
+
+Klimastreik zur EU-Wahl
+Stockholm/Berlin/Brüssel.Hunderttausende überwiegend junge Menschen haben in aller Welt unmittelbar zur Europawahl ein Zeichen für den Kampf gegen die <B>Klimakrise</> gesetzt. Allein in Deutschland beteiligten sich nach Angaben der Bewegung Fridays for Future 320 000 Menschen an der zweiten Auflage eines globalen Klimaprotesttages  so viele wie noch nie.
+
+NUN19/MAI.02058 Nürnberger Nachrichten, 29.05.2019, S. 3; Wer das Klima schont, bekommt mehr zurück Der Grünen-Politiker Toni Hofreiter über Brüsseler Hinterzimmerdeals, die Rolle seiner Partei in Bremen und die angedachte CO2-Steuer [Ausführliche Zitierung nicht verfügbar]
+
+
+Klimaschutz ist ganz klar unser zentrales Anliegen. Wir müssen bei der <B>Klimakrise</> die Wende schaffen. Nur wer mit uns die EU zur Klimaschutzunion macht, kann auf unsere Unterstützung zählen.
+
+NUN19/JUN.00235 Nürnberger Nachrichten, 04.06.2019, S. 2; Mut zum GroKo-Ausstieg - Die SPD muss trotz ihrer Schwäche Neuwahlen wagen [Ausführliche Zitierung nicht verfügbar]
+
+ Tatsächlich hat sich das Versprechen der scheidenden Vorsitzenden, die überfällige Grunderneuerung der Partei parallel zum von Kompromissen geprägten Regierungsgeschäft erledigen zu wollen, als unerfüllbar erwiesen. Die SPD muss sich aus der Großen Koalition befreien und sozialdemokratische Antworten auf Digitalisierung, <B>Klimakrise</> und eine Sieger und Verlierer produzierende Globalisierung des Kapitalismus entwickeln.
+Solange es Menschen gibt, die an der Ungerechtigkeit der Verhältnisse dieser Welt leiden, gibt es Raum im Parteienspektrum für sozialdemokratische Antworten.
+
+NUN19/JUN.00274 Nürnberger Nachrichten, 05.06.2019, S. 10; Die Zeit drängt - ÖDP fordert, dass Nürnberg den Klima-Notstand ausruft [Ausführliche Zitierung nicht verfügbar]
+
+ Die Öko-Partei fordert in einem Stadtratsantrag, dass sich Nürnberg ebenfalls dazu durchringt, den Klima-Notstand auszurufen. Damit die Eindämmung der <B>Klimakrise</> und ihrer schwerwiegenden Folgen höchste Priorität erhält.
+Denn die Zeit wird knapp, das hat nicht zuletzt die Fridays-for-Future-Bewegung ins Bewusstsein zurückgerufen.
+
+NUN19/JUN.00564 Nürnberger Nachrichten, 08.06.2019, S. 4; KURZ BERICHTET [Ausführliche Zitierung nicht verfügbar]
+
+
+Die schwedische Klimaaktivistin Greta Thunberg und die Protestbewegung Fridays for Future erhalten in diesem Jahr die höchste Auszeichnung von Amnesty International. Für ihren Kampf gegen die <B>Klimakrise</> werden sie von der Menschenrechtsorganisation mit dem sogenannten Ambassador of Conscience Award (Botschafter des Gewissens) geehrt. Sie widmete den Preis all jenen, die sich an den Schulstreiks beteiligen.dpa
+
+NUN19/JUN.01092 Nürnberger Nachrichten, 17.06.2019, S. 6; Mit Robert Habeck ins Kanzleramt? Systematisch bereiten sich die Grünen auf den Weg in die nächste Bundesregierung vor  und setzen auf Sozial- und Wirtschaftspolitik [Ausführliche Zitierung nicht verfügbar]
+
+ Dass Klimaschutz nicht auf dem aktuellen Niveau der heiße Scheiß bleibt, damit rechnet auch er  Themenkonjunkturen gebe es immer. Aber es habe sich etwas verändert, die <B>Klimakrise</> sei angekommen und gehe nicht mehr weg: Klimaschutz war lange ein Thema für morgen. Jetzt ist es ein Thema für heute.
+
+NUN19/JUN.01728 Nürnberger Nachrichten, 27.06.2019, S. 4; Sozialdemokraten regieren Dänemark - Die künftige Ministerpräsidentin will das Klima schützen  und Migration bremsen [Ausführliche Zitierung nicht verfügbar]
+
+
+Zugrunde liegen soll der Zusammenarbeit ein 18-seitiges Dokument mit dem Namen Gerechte Richtung für Dänemark, das Frederiksen als eine politische Verständigung bezeichnete. Zu den Vereinbarungen zählt unter anderem, dass Dänemark im Kampf gegen die <B>Klimakrise</> eine Führungsrolle einnehmen und seine Treibhausgasemissionen bis 2030 im Vergleich zu 1990 um 70 Prozent senken will. Mit ihrer Kinder- und Bildungspolitik wolle man Dänemark außerdem zum weltbesten Land machen, um dort Kind zu sein, schrieben die Parteispitzen fest.
+
+NUN19/JUL.01760 Nürnberger Nachrichten, 09.07.2019, S. 12; Es gibt viel Nachholbedarf Antonia Merkler vom Nürnberg Digital Festival über Nachhaltigkeit in der digitalen Welt [Ausführliche Zitierung nicht verfügbar]
+
+ Das hat auch schon begonnen  eine smarte nachhaltige Form der Digitalisierung entsteht gerade. Die Digitalisierung muss aber noch viel mehr als Chance genutzt werden, der <B>Klimakrise</> entgegenzuwirken. Das ist die gemeinsame Aufgabe für die Community, die Firmen und die Politik.
+
+NUN19/JUL.02570 Nürnberger Nachrichten, 19.07.2019, S. 7; Das wahre Leben - Judith Kuckarts Roman Kein Sturm, nur Wetter hat es in sich [Ausführliche Zitierung nicht verfügbar]
+
+Das wahre Leben
+Wer beim Titel des Romans Kein Sturm, nur Wetter an die <B>Klimakrise</> denkt, liegt falsch. Die Heldin des Buches befindet sich allerdings in einer ganz persönlichen Klimakatastrophe.
+
+NUN19/JUL.02690 Nürnberger Nachrichten, 20.07.2019, S. 4; Greta ruft zu langem Kampf auf - Schwedische Klima-Aktivistin machte Fridays for Future-Demonstranten in Berlin Mut [Ausführliche Zitierung nicht verfügbar]
+
+
+BERLIN.Die schwedische Klima-Aktivistin Greta Thunberg fordert ein langes Durchhaltevermögen beim Engagement für den Planeten.Der Kampf für mehr Klimaschutz werde viele Jahre dauern, eine andere Wahl haben wir nicht, sagte die 16-Jährige bei ihrer ersten längeren Rede in Deutschland auf der Fridays for Future-Demonstration in Berlin. Auch in der Urlaubszeit werde weitergestreikt, betonte Thunberg: Die <B>Klimakrise</> stoppt nicht, auch wenn wir Ferien haben.
+Thunberg würdigte zudem die deutsche Fridays for Future-Bewegung.
+
+NUN19/JUL.02690 Nürnberger Nachrichten, 20.07.2019, S. 4; Greta ruft zu langem Kampf auf - Schwedische Klima-Aktivistin machte Fridays for Future-Demonstranten in Berlin Mut [Ausführliche Zitierung nicht verfügbar]
+
+ Diese habe Geschichte geschrieben. Zugleich kritisierte die Schwedin Entscheidungsträger in Politik, Wirtschaft und Medien.Diese würden ihrer Verantwortung im Kampf gegen die <B>Klimakrise</> nicht gerecht. Zugleich rief Thunberg die ältere Generation zur Mithilfe auf.
+
+NUN19/JUL.02732 Nürnberger Nachrichten, 22.07.2019, S. 12; Klimakrise statt Klimawandel - Beim 47. Reichswaldfest des Bund Naturschutz beschwört Anton Hofreiter eine gesellschaftliche Umkehr [Ausführliche Zitierung nicht verfügbar]
+
+<B>Klimakrise</> statt Klimawandel
+Wir erleben eine dramatische Entwicklung.
+
+NUN19/JUL.02732 Nürnberger Nachrichten, 22.07.2019, S. 12; Klimakrise statt Klimawandel - Beim 47. Reichswaldfest des Bund Naturschutz beschwört Anton Hofreiter eine gesellschaftliche Umkehr [Ausführliche Zitierung nicht verfügbar]
+
+ Diese Bezeichnung ist ihm zu harmlos. Er nennt die ständige Erderwärmung <B>Klimakrise.</>
+Der Biologe will aufrütteln, der Gesellschaft die akute, tödliche Dauerbedrohung bewusst machen.
+
+NUN19/JUL.02732 Nürnberger Nachrichten, 22.07.2019, S. 12; Klimakrise statt Klimawandel - Beim 47. Reichswaldfest des Bund Naturschutz beschwört Anton Hofreiter eine gesellschaftliche Umkehr [Ausführliche Zitierung nicht verfügbar]
+
+ Ihre Bewohner müssten sich dann in Sicherheit bringen, was enorme Wanderungsbewegungen zur Folge haben würde.
+Auch Hubert Weiger, Vorsitzender des Bund Naturschutz in Deutschland, äußerte sich besorgt: Wir sind in der jetzigen <B>Klimakrise</> mit Pilzen und Schädlingen konfrontiert, die ich zu meiner Examenszeit noch gar nicht gekannt habe. Wir brauchen Mut zu erkennen, dass das Überlassen unserer Lebensgrundlagen an die Wirtschaft in die Sackgasse führt.
+
+NUN19/JUL.03206 Nürnberger Nachrichten, 27.07.2019, S. 16; Vorbild für ganz Bayern? Die Überlandzentrale Mainfranken zeigt, wie man die Energiewende schaffen kann [Ausführliche Zitierung nicht verfügbar]
+
+ Einfach macht ihnen das aber zum Beispiel die 10 H-Abstandsregelung für Windräder nicht.
+Wir befinden uns mitten in der <B>Klimakrise.</>Wir brauchen eine Aufbruchstimmung für die Energiewende in Bayern.
+
+NUN19/AUG.00105 Nürnberger Nachrichten, 02.08.2019, S. 12; Klare Botschaften an Mortler - Greenpeace fordert einen Wechsel in der Agrarpolitik und schickt eine Riesenkarte an die CSU-Europaabgeordnete [Ausführliche Zitierung nicht verfügbar]
+
+ Laut Greenpeace wird dabei die Richtung der Landwirtschaftspolitik für die kommenden Jahrzehnte festgelegt.
+Nach Ansicht der Umweltschützer ist die industrielle Landwirtschaft für <B>Klimakrise,</> Artensterben, massenhaftes Tierleid, belastetes Grundwasser und das Höfesterben verantwortlich. Diese Fehlentwicklungen fördere die EU mit rund 58 Milliarden Euro vor allem als Direktförderung an die Landwirte.
+
+NUN19/AUG.00211 Nürnberger Nachrichten, 03.08.2019, S. 16; Der große Literaturgarten wird eröffnet - Monika Maron, Andreas Maier und Ulrike Draesner kommen neben vielen anderen Schriftstellern zum 39 [Ausführliche Zitierung nicht verfügbar]
+
+
+Erlangen.Neben der Literatur wird es beim 39. Poetenfest in Erlangen vom 29. bis 31. August eine Menge zu besprechen und zu diskutieren geben. Als zentrale Themen hat das Organisations-Team um den langjährigen Festival-Leiter Bodo Birk diesmal den Umweltschutz und die <B>Klimakrise,</> Aufrüstung und neue Kriegsgefahren ebenso gesetzt wie etwa die Verrohung von Sprache und Gesellschaft und die Digitalisierung. Zu all diesen Stichpunkten wird es Gespräche und Diskussionen mit Experten geben.
+
+NUN19/AUG.00225 Nürnberger Nachrichten, 03.08.2019, S. 5; Demonstranten begrünen Dortmund - Während des fünftägigen Sommerkongresses von Fridays for Future wurde auch wieder gestreikt [Ausführliche Zitierung nicht verfügbar]
+
+
+Verschiedene Workshops
+Hier geht es etwa um den Zusammenhang zwischen <B>Klimakrise</> und Wirtschaftswachstum, um Solarenergie für Schulen, Feminismus und Empowerment, aber auch um den Umgang mit Hass im Internet und gewaltfreie Aktionsformen. Die Erlanger Studentin hat sich einen Vortrag zu Der Wald im Klimawandel angehört; ihr Kollege Florian Fischer lernte viel bei Politisches Framing. Hier ging es um den Umgang mit Sprache.
+
+NUN19/AUG.00876 Nürnberger Nachrichten, 13.08.2019, S. 10; Chance für die Umwelt vertan [Ausführliche Zitierung nicht verfügbar]
+
+
+Nürnbergs OB Maly hat der Umweltpolitik viel zu niedrige Priorität gegeben. Dies räumt er im Interview auch ein: Er sei manchmal wohl zu vorsichtig gewesen. Die Erklärung liefert er auch gleich mit: Er habe die CSU nicht genug gedrängelt. So reagiert jemand, der angesichts der Herausforderungen der bereits 1991 bekannten <B>Klimakrise</> im Grunde versagt hat, obwohl damals dieses Thema Teil seiner Doktorarbeit zur Umweltpolitik in der Stadtentwicklung war. Als Präsident des Städtetags hätte er für ganz Deutschland Akzente setzen können.
+
+NUN19/AUG.00982 Nürnberger Nachrichten, 14.08.2019, S. 7; Neuer Krimi - Globale Probleme am fränkischen Stammtisch [Ausführliche Zitierung nicht verfügbar]
+
+
+Globale Probleme am fränkischen Stammtisch
+Der achte literarische Einsatz des Nürnberger Kommissars Friedo Behütuns zielt auf die beiden Top-Themen der politischen Diskussion seit 2015: Flüchtlingskrise und <B>Klimakrise.</>Autor Tommie Goerz (alias Dr. Marius Kliesch aus Erlangen) verortet den aktuellen Kriminalfall im realen Hitze-Sommer 2018 und im fiktiven Hybrid-Kaff aus der Fränkischen Schweiz: Waischmannstein (gleich neben Eberweinfeld gelegen?).
+
+NUN19/AUG.00998 Nürnberger Nachrichten, 14.08.2019, S. 1; Krimi [Ausführliche Zitierung nicht verfügbar]
+
+Krimi
+Flüchtlings- und <B>Klimakrise</> thematisiert Autor Tommie Goerz im neuen Fall seines Kommissars Behütuns.
+KULTUR SEITEN 6-7
+
+NUN19/AUG.01009 Nürnberger Nachrichten, 14.08.2019, S. 4; Klimakrise trifft vor allem Arme - Weniger begüterte Menschen wohnen häufiger an Bahnstrecken, vielbefahrenen Straßen oder in Einflugschneisen [Ausführliche Zitierung nicht verfügbar]
+
+<B>Klimakrise</> trifft vor allem Arme
+BERLIN.Es ist laut an mehrspurigen Straßen, in Einflugschneisen und an Bahnstrecken.
+
+NUN19/AUG.01064 Nürnberger Nachrichten, 15.08.2019, S. 2; Nächster Halt: New York - Die schwedische Aktivistin Greta Thunberg startet ihre Reise zum UN-Klimagipfel [Ausführliche Zitierung nicht verfügbar]
+
+ Mit der Malizia brettert sie zwar emissionsfrei über den Atlantik, aber nicht sehr bequem. Für ihren Kampf gegen die <B>Klimakrise</> nimmt die junge Schwedin die Strapazen gern auf sich. Denn in den USA will sie mit Staats- und Regierungschefs am UN-Klimagipfel teilnehmen und für ihren Klimakampf werben.
+
+NUN19/AUG.01064 Nürnberger Nachrichten, 15.08.2019, S. 2; Nächster Halt: New York - Die schwedische Aktivistin Greta Thunberg startet ihre Reise zum UN-Klimagipfel [Ausführliche Zitierung nicht verfügbar]
+
+ Allerdings ist seine Kohlendioxidbilanz umstritten, weil Fasern und Kunststoff in der Regel aus Erdöl hergestellt werden und bei der Produktion viel Energie benötigt wird.Aber kurz vor der Abfahrt ist das kein Thema.
+Vor knapp einem Jahr hat Thunberg mit ihrem Protest für einen beherzteren Einsatz der Politik gegen die <B>Klimakrise</> begonnen.Nachdem sie bereits als Kind von der Erderwärmung gehört und sich jahrelang mit deren Folgen beschäftigt hatte, setzte sie sich im August 2018 vor den Reichstag in Stockholm, um Schwedens Politiker zum Handeln und zum Einhalten der Pariser Klimaziele aufzufordern.
+Daraus hat sich die internationale Klimaschutzbewegung Fridays for Future entwickelt.
+
+NUN19/AUG.01883 Nürnberger Nachrichten, 27.08.2019, S. 8; Klimakrise trifft auf Digitalisierung - Beim Erlanger Poetenfest stehen ab Donnerstag die aktuellen Themen ganz oben auf der Agenda [Ausführliche Zitierung nicht verfügbar]
+
+<B>Klimakrise</> trifft auf Digitalisierung
+Druckfrischer Lesestoff unter freien Himmel: Rund 12 000 Besucher werden zum 39. Poetenfest auf der Wiese des Erlanger Schlossgartens erwartet, um Literatur zu lauschen und zu diskutieren.
+
+NUN19/AUG.01883 Nürnberger Nachrichten, 27.08.2019, S. 8; Klimakrise trifft auf Digitalisierung - Beim Erlanger Poetenfest stehen ab Donnerstag die aktuellen Themen ganz oben auf der Agenda [Ausführliche Zitierung nicht verfügbar]
+
+ Auf dem Lesefestival, dessen langjähriger Medienpartner die Erlanger Nachrichten sind, gehen Poesie und Politik eine enge Verbindung ein.
+Mit den Themen <B>Klimakrise,</> Kriegsgefahren, Digitalisierung, Verrohung von Sprache und Gesellschaft, und 30 Jahre Mauerfall zieht sich das Zeitgeschehen wie ein roter Faden durch das breit aufgestellte Programm. Mit Lesungen, Diskussionen und Ausstellungen in der Umgebung rund um das Markgrafentheater und den Schlossgarten lädt Erlangen Gäste von Jung bis Alt zum Meinungs- und Gedankenaustausch ein.
+
+NUN19/AUG.01883 Nürnberger Nachrichten, 27.08.2019, S. 8; Klimakrise trifft auf Digitalisierung - Beim Erlanger Poetenfest stehen ab Donnerstag die aktuellen Themen ganz oben auf der Agenda [Ausführliche Zitierung nicht verfügbar]
+
+ Karten: ab 10,80 Euro.
+Sonntag, 1. September: Um 11 Uhr finden sich die Umweltexperten Thomas Holzmann, Elmar Kriegler, Eva Leipprand und Roda Verheyen zur Sonntagsmatinee: <B>Klimakrise</>  Ein Wandel muss her! unter Moderation von Nana Brink im Markgrafentheater ein. Karten gibt es ab 9,70 Euro.
+
+NUN19/AUG.02039 Nürnberger Nachrichten, 29.08.2019, S. 5; Treffen mit Trump? Nein, danke - Sie hat es geschafft: Nach 14 Tagen an Bord einer Rennjacht ist Greta Thunberg in Amerika [Ausführliche Zitierung nicht verfügbar]
+
+
+Die 16-Jährige verzichtet auf Flugreisen, weil auf diesen besonders viele klimaschädliche Treibhausgase ausgestoßen werden. In den USA will sie ihren Kampf gegen die <B>Klimakrise</> auf eine neue Ebene heben. Nach ein paar Tagen Ruhe stehen mehrere Klimaproteste in New York und vor allem zwei UN-Klimakonferenzen auf Thunbergs Plan.
+
+NUN19/AUG.02259 Nürnberger Nachrichten, 31.08.2019, S. 2; Zu viele Orte wie Wielun - Prekäres Gut: Frieden 80 Jahre nach Kriegsbeginn [Ausführliche Zitierung nicht verfügbar]
+
+ Im Jemen, in Afghanistan  die Liste ist zu lang für den Platz hier. Hinzu kommt die Gefahr durch die sich wegen akuter Tatenlosigkeit verschärfende <B>Klimakrise</> samt ihren Folgen für den Frieden (Flucht, Umweltdesaster).
+Wir bräuchten global denkende Friedensbewahrer.
+
+NUN19/SEP.00035 Nürnberger Nachrichten, 02.09.2019, S. 25; Poeten-Sonntagsmatinee - In der Klimakrise wird ein Wandel immer schwerer [Ausführliche Zitierung nicht verfügbar]
+
+Poeten-Sonntagsmatinee
+In der <B>Klimakrise</> wird ein Wandel immer schwerer
+ERLANGEN.
+
+NUN19/SEP.00035 Nürnberger Nachrichten, 02.09.2019, S. 25; Poeten-Sonntagsmatinee - In der Klimakrise wird ein Wandel immer schwerer [Ausführliche Zitierung nicht verfügbar]
+
+
+ERLANGEN. Wir brauchen in der Klimadebatte mehr Zuversicht, um einen neuen Lebensstil nicht als Ergebnis von Verboten zu erreichen, sondern ihn als Zugewinn an Lebensqualität zu erkennen: Mit diesem Resümee der Augsburger Schriftstellerin und Stadträtin Eva Leipprand lässt sich die spannende Sonntagsmatinee auf dem Poetenfest zusammenfassen, die sich die <B>Klimakrise</> zum Thema gemacht hatte und mit dem Untertitel Ein Wandel muss her! auch gleich die Richtung vorgab.
+Fachleute wie Elmar Kriegler vom Potsdamer Institut für Klimafolgenforschung (Internationale Abkommen helfen nicht, wenn sich die Vertragspartner nicht daran halten) oder der ehemalige Vizepräsident des Bundesumweltamtes, Thomas Holzmann (Die Politiker belügen uns schamlos!) beklagen, dass der Umweltschutz zu lange vernachlässigt wurde.
+
+NUN19/SEP.00533 Nürnberger Nachrichten, 09.09.2019, S. 8; Umweltschützer fordern SUV-Stopp - BUND: Die IAA ist die Bühne der falschen Mobilitätspolitikder vergangenen Jahre [Ausführliche Zitierung nicht verfügbar]
+
+
+Weg von Klimakillern
+Greenpeace-Verkehrsexperte Benjamin Stephan sagte, mit Blick auf die <B>Klimakrise</> sei es völlig unverantwortlich, SUVs herzustellen und zu fahren. Die deutschen Hersteller müssen weg von übermotorisierten Klimakillern und viel stärker auf leichte E-Autos und Mobilitätsdienstleistungen setzen.
+
+NUN19/SEP.00769 Nürnberger Nachrichten, 12.09.2019, S. 3; Söder muss Verantwortung übernehmen Der Chef des Bund Naturschutz, Richard Mergner, erkennt in der Klimaschutz-Politik der CSU Ideen von vor 30 Jahren [Ausführliche Zitierung nicht verfügbar]
+
+ Die Gewerkschaften wissen das ganz genau.
+Zur Begriffsklärung: Befinden wir uns in einer Klimakatastrophe, einem Klimawandel oder einer <B>Klimakrise?</>
+Eine Klimakrise ist, glaube ich, das richtige Wort.
+
+NUN19/SEP.00769 Nürnberger Nachrichten, 12.09.2019, S. 3; Söder muss Verantwortung übernehmen Der Chef des Bund Naturschutz, Richard Mergner, erkennt in der Klimaschutz-Politik der CSU Ideen von vor 30 Jahren [Ausführliche Zitierung nicht verfügbar]
+
+
+Zur Begriffsklärung: Befinden wir uns in einer Klimakatastrophe, einem Klimawandel oder einer Klimakrise?
+Eine <B>Klimakrise</> ist, glaube ich, das richtige Wort. Wir haben internationale Verpflichtungen, die die Bundesrepublik und damit Bayern eingegangen sind.
+
+NUN19/SEP.00949 Nürnberger Nachrichten, 14.09.2019, S. 31; Nächster Sturm naht - Die Bahamas kommen nach dem verheerenden Hurrikan Dorian nicht zur Ruhe [Ausführliche Zitierung nicht verfügbar]
+
+ Er wolle damit die internationale Gemeinschaft für die Situation vor Ort sensibilisieren, sagte er. Den ungewöhnlich starken Hurrikan sieht Guterres als Auswirkung der <B>Klimakrise:</> Der Klimawandel rennt schneller als wir, und wir müssen einen viel ehrgeizigeren Ansatz verfolgen, um den Klimawandel zu bekämpfen.
+Weltweit hatten extreme Wetterereignisse in diesem Jahr bereits verheerende Folgen.
+
+NUN19/SEP.01256 Nürnberger Nachrichten, 19.09.2019, S. 24; Ein Schiff lässt sich einfrieren - Am morgigen Freitag bricht die Polarstern zur größten Arktisexpedition aller Zeiten auf [Ausführliche Zitierung nicht verfügbar]
+
+ Das Budget der Expedition beträgt rund 140 Millionen Euro.
+Morgen, wenn Aktivisten weltweit mit einem Streik auf die <B>Klimakrise</> aufmerksam machen wollen, ist es so weit. Dann startet die Polarstern vom norwegischen Tromsø aus.
+
+NUN19/SEP.01297 Nürnberger Nachrichten, 19.09.2019, S. 2; Sackgasse oder Ausweg? Der umstrittene Frankenschnellweg rückt näher [Ausführliche Zitierung nicht verfügbar]
+
+
+Denn immer mehr Menschen stellen sich die durchaus berechtigte Frage, ob ein Straßenausbauprojekt dieser Dimension noch zeitgemäß ist. Alle Welt spricht über die Folgen der <B>Klimakrise,</> abgesehen von Lobbyisten mit sehr durchsichtigen Interessen, prophezeien Experten dem motorisierten Individualverkehr in und um Ballungszentren keine allzu rosigen Zukunftsaussichten.
+Wie passt ein kreuzungsfreier Frankenschnellweg also zu diesem gesellschaftlichen Wandel?
+
+NUN19/SEP.01590 Nürnberger Nachrichten, 23.09.2019, S. 2; Klein-Klein ist keine Lösung - Die Klimakrise verlangt nach einem großen Wurf [Ausführliche Zitierung nicht verfügbar]
+
+
+michael.husarek@pressenetz.de
+Die <B>Klimakrise</> verlangt nach einem großen Wurf
+
+NUN19/SEP.01799 Nürnberger Nachrichten, 25.09.2019, S. 4; Thunberg reicht Beschwerde bei den UN ein - Die schwedische Aktivistin und auch ein Hamburger Mädchen schöpfen die Möglichkeiten der Kinderrechtskonvention aus [Ausführliche Zitierung nicht verfügbar]
+
+ Unter den Jugendlichen ist auch eine 15-Jährige aus Hamburg.
+Die 1989 verabschiedete Kinderrechtskonvention legt Standards zum Schutz von Kindern weltweit fest  zu den Themen Überleben, Entwicklung, Nichtdiskriminierung, Interessenwahrnehmung und Beteiligung.Die Staats- und Regierungschefs der Welt versagen dabei, die Rechte der Kinder zu beschützen, indem sie weiter nichts gegen die <B>Klimakrise</> unternehmen, sagte die 16 Jahre alte Thunberg bei einer Pressekonferenz in New York. Wir wollen sagen, dass es uns reicht. Der UN-Klimagipfel sei eine riesige Chance für die Staats- und Regierungschefs der Welt zu beweisen, dass sie es ernst meinten, sagte Thunberg.
+
+NUN19/SEP.01799 Nürnberger Nachrichten, 25.09.2019, S. 4; Thunberg reicht Beschwerde bei den UN ein - Die schwedische Aktivistin und auch ein Hamburger Mädchen schöpfen die Möglichkeiten der Kinderrechtskonvention aus [Ausführliche Zitierung nicht verfügbar]
+
+ So schön zu sehen!, schrieb Trump in der Nacht zum Dienstag auf Twitter.Dazu verlinkte er einen Video-Ausschnitt der Rede Thunbergs. Darin wirft die Schülerin sichtlich verärgert mit Tränen in den Augen den Politikern vor, mit ihrer Trägheit in der <B>Klimakrise</> die junge Generation verraten zu haben. (Kommentar Seite 2)dpa
+
+NUN19/SEP.01820 Nürnberger Nachrichten, 26.09.2019, S. 3; WELCHEN KLIMAEFFEKT HAT DER FORST IN BAYERN? 50,5 Millionen Tonnen CO2-Einsparung stecken in Holzprodukten // Lohnt sich ein Klimawald [Ausführliche Zitierung nicht verfügbar]
+
+ Sie würden dann doch eher anderswo ansetzen.
+Die <B>Klimakrise</> werden wir nicht mit Wäldern bewältigen können, sondern indem wir den Ausstoß klimaschädlicher Gase reduzieren, betont Ralf Straußberger vom Bund Naturschutz. Und auch Jörg Müller vom Nationalpark Bayerischer Wald wundert sich: Da bläht sich die Wirtschaft immer mehr auf, die Autos werden größer und es werden Unmengen an Abgasen in die Luft geblasen  und ganz unten streiten wir uns darüber, ob wir jetzt einen Stamm im Wald lassen oder nicht.
+
+NUN19/SEP.01826 Nürnberger Nachrichten, 26.09.2019, S. 11; Welche Rolle spielen wir? Ausstellung im Friedensmuseum präsentiert zeitgenössische Kunst über Unterdrückung und Umweltzerstörung [Ausführliche Zitierung nicht verfügbar]
+
+
+Die Künstlerinnen und Künstler der Ausstellung setzen sich in vielfältiger Weise mit Schicksalen von Migranten auseinander. Sie gehen der Frage nach, was unser Konsum in Deutschland mit der <B>Klimakrise</> zu tun hat, warum durch deutsche Waffenexporte Kriege überhaupt erst geführt werden können und inwiefern unser Wirtschaftssystem die Entwicklungschancen und Zukunftsperspektiven der sogenannten Dritten Welt verhindert.
+Sämtlichen Ausstellern  neben Hans Wallner (Regensburg) sind das Kurt Bachner (Kematen/Ybbs), Thomas Bühler (Berlin), Gabriele Griese-Heindl (Regenstauf), Mechthild Hartung (Wolfsburg), Rolf Hartung (Köln) und Annabelle Poertner (München)  gemein ist ihre menschliche Anteilnahme.
+
+NUN19/SEP.02031 Nürnberger Nachrichten, 28.09.2019, S. 17; Wir warten nicht in Ruhe ab Die Klimaexpertin Lisa Badum bezweifelt einen Einfluss der Grünen auf die GroKo [Ausführliche Zitierung nicht verfügbar]
+
+
+Meine Erwartungshaltung war hoch. Die Bundeskanzlerin hatte erst wenige Tage zuvor im Bundestag den Kampf gegen die <B>Klimakrise</> als Menschheitsaufgabe bezeichnet. Da war es dann sehr enttäuschend, dass nicht mehr herauskam als der übliche kleinste gemeinsame Nenner der GroKo.
+
+NUN19/SEP.02151 Nürnberger Nachrichten, 30.09.2019, S. 1; Kurz triumphiert in Wien - Mit großem Abstand gewinnt der ÖVP-Chef die Parlamentswahl in Österreich [Ausführliche Zitierung nicht verfügbar]
+
+ Der Wähler habe der FPÖ einen Auftrag für einen Neustart gegeben, sagte Generalsekretär Harald Vilimsky.
+Die zuletzt an der Vier-Prozent-Hürde gescheiterten Grünen profitierten von der Debatte um die <B>Klimakrise</> und feierten ein spektakuläres Comeback. Die Partei mit dem Spitzenkandidaten Werner Kogler erhielt 14,0 Prozent der Stimmen nach 3,8 Prozent vor zwei Jahren.
+
+NUN19/OKT.00012 Nürnberger Nachrichten, 01.10.2019, S. 4; Österreich - Union will von Sebastian Kurz siegen lernen [Ausführliche Zitierung nicht verfügbar]
+
+ Die rechtspopulistische FPÖ, der bisherige Koalitionspartner der ÖVP, rutschte nach mehreren Affären auf rund 16 Prozent ab. Die zuletzt an der Vier-Prozent-Hürde gescheiterten Grünen profitierten von der Debatte um die <B>Klimakrise:</> Sie erhielten rund 14 Prozent der Stimmen.
+Ex-Kanzler legte gestern bereits erste Ziele für Bündnisgespräche fest.
+
+NUN19/OKT.00978 Nürnberger Nachrichten, 15.10.2019, S. 12; Terminvorschau - Fakten zur Klimakrise [Ausführliche Zitierung nicht verfügbar]
+
+Terminvorschau
+Fakten zur <B>Klimakrise</>
+Unter dem Titel Das Klima im Wandel  Fakten und Lösungen bietet die Technische Hochschule (TH) Nürnberg sechs Veranstaltungen mit Fachleuten aus Wissenschaft, Politik und Ökonomie zu der wohl drängendsten Frage unserer Zeit an.
+
+NUN19/OKT.01048 Nürnberger Nachrichten, 16.10.2019, S. 12; Vortrag - Vielleicht doch noch die Welt retten [Ausführliche Zitierung nicht verfügbar]
+
+ Den Einführungsvortrag hält im Anschluss der Erlanger Klimaforscher Dr. Tobias Sauter. Er widmet sich mit Kurswechsel 1,5 °C. der <B>Klimakrise</> als politischer Herausforderung.
+Rund um die Ausstellung hat die evangelische Stadtakademie ihr laufendes Herbstprogramm ausgerichtet: So informiert unter anderem am Donnerstag, 24. Oktober, Journalist Günther Wessel bei Vier fürs Klima, über den Versuch einer Familie, CO2-neutral zu leben (Haus Eckstein, Burgstraße 1, Raum E.01).
+
+NUN19/OKT.01436 Nürnberger Nachrichten, 21.10.2019, S. 25; Rehhagel sorgte für 5:3-Sieg - Mehr Besucher: Die 71. Frankfurter Buchmesse zieht eine positive Bilanz [Ausführliche Zitierung nicht verfügbar]
+
+
+Gottschalk präsentierte Herbstbunt
+Auf der Buchmesse debattierte auch Fridays for Future-Aktivistin Luisa Neubauer mit Nordrhein-Westfalens Ministerpräsident Armin Laschet (CDU) über die <B>Klimakrise.</>Der frühere Tagesthemen-Moderator und Autor Ulrich Wickert sprach auf der ARD-Bühne über Heimat.
+
+NUN19/OKT.01780 Nürnberger Nachrichten, 25.10.2019, S. 8; Der alte Mann und der Bär - Nach sieben Jahren kehrt Neil Young mit seiner Band Crazy Horse und dem Album Colorado mit neuen Protestsongs zurück [Ausführliche Zitierung nicht verfügbar]
+
+ Für weitere bleibt in dem fortgeschrittenen Alter keine Zeit.
+Bei Green Is Blue kommt dann ein Klavier dazu und Neil Young singt über die <B>Klimakrise.</>We Heard The Warning Calls / Ignored Them / We Watched The Weather Change / We Saw The Fire And Floods. Von einem Eisbären ist zu hören, der auf einer Scholle in den Ozean treibt.
+
+NUN19/OKT.01957 Nürnberger Nachrichten, 28.10.2019, S. 14; Die Zeit des Zauderns ist vorbei Angesichts des Klimawandels will der Deutsche Alpenverein mit vielen neuen Maßnahmen zur Reduzierung des CO2-Ausstoßes beitragen [Ausführliche Zitierung nicht verfügbar]
+
+
+In seiner Resolution kritisiert der DAV auch die Bundesregierung.Berlin habe ein Klimaschutzgesetz auf den Weg gebracht, das mit der Klimaneutralität im Jahr 2050 ein hochgestecktes Ziel formuliere, aber vor wesentlichen Maßnahmen wie einer wirksamen CO2-Abgabe zurückschrecke. Gestalten Sie eine konsequentere und sozialverträgliche nationale Klimapolitik, die der <B>Klimakrise</> als einer existenziellen Gefährdung entschieden entgegenwirkt, fordert der DAV. Die Politik sei zwar aktiv geworden, sagte der scheidende Vizepräsident Rudolf Erlacher.
+
+NUN19/OKT.02277 Nürnberger Nachrichten, 31.10.2019, S. 4; Thunberg lehnt Ehrung ab - Ihren Schritt begründet sie mit fehlenden Anstrengungen fürs Klima [Ausführliche Zitierung nicht verfügbar]
+
+ Zu seinen Mitgliedern zählen neben Dänemark, Norwegen, Schweden, Finnland und Island auch die weitgehend selbstständigen Territorien Åland, Grönland und die Färöer-Inseln. Thunbergs Heimatland Schweden hat in diesem Jahr den Vorsitz inne.Eigentlich wollte der Rat die junge Aktivistin mit dem Preis für ihren Kampf gegen die <B>Klimakrise</> ehren. Sie erhalte die Auszeichnung dafür, dass sie Millionen Menschen in aller Welt dazu mobilisiert habe, zu einem kritischen Zeitpunkt politisches Handeln für das Klima einzufordern, erklärte der Rat zunächst.
+
+NUN19/NOV.00271 Nürnberger Nachrichten, 06.11.2019, S. 12; Vortrag und diskussion - Mensch und Umwelt [Ausführliche Zitierung nicht verfügbar]
+
+
+Mensch und Umwelt
+Die <B>Klimakrise</> beschäftigt uns fast täglich. Sie ist nicht nur Thema politischer Debatten, sondern bietet Raum für grundsätzliche Fragen, die unsere Art zu leben genauso betreffen wie unser Verständnis von Mensch und Umwelt.
+
+NUN19/NOV.00283 Nürnberger Nachrichten, 06.11.2019, S. 13; Revolution muss am Küchentisch gelingen BUND-Chef Hubert Weiger setzt darauf, dass Jugendliche ihre Eltern zu umweltverträglicherem Verhalten bewegen können [Ausführliche Zitierung nicht verfügbar]
+
+ Das ist nicht verwunderlich. Die Jugendlichen sind schließlich die Hauptbetroffen der Folgen der <B>Klimakrise.</>Sie haben das auszubaden.
+
+NUN19/NOV.00330 Nürnberger Nachrichten, 06.11.2019, S. 4; Washington legt den Rückwärtsgang ein - Die USA klinken sich offiziell aus dem Pariser Klima-Abkommen aus [Ausführliche Zitierung nicht verfügbar]
+
+ Demnach sind zwei Drittel der Befragten der Meinung, ihr Präsident tue zu wenig, um das Klimaproblem anzugehen. 40 Prozent sprechen dezidiert von einer <B>Klimakrise</>  vor fünf Jahren waren es noch 25 Prozent.
+Inzwischen versuchen Allianzen jenseits des Weißen Hauses, den Schaden zu begrenzen.
+
+NUN19/NOV.00372 Nürnberger Nachrichten, 07.11.2019, S. 12; Witze-Automaten fürs Krankenhaus - Mediziner und Kabarettist Eckart von Hirschhausen bringt die fränkische Erfindung in Kliniken [Ausführliche Zitierung nicht verfügbar]
+
+ Der kein Vortrag war, sondern eher Schlaglichter auf viele relevante Bereiche des gesellschaftlichen Lebens warf. Von der schlechten Pflege-Situation über die Digitalisierung bis hin zur <B>Klimakrise.</>Wenn Sie einen roten Faden finden, dürfen Sie ihn behalten, meinte Hirschhausen.
+
+NUN19/NOV.00379 Nürnberger Nachrichten, 07.11.2019, S. 3; Hetze darf nicht folgenlos bleiben Claudia Roth über Todesdrohungen von Rechtsextremisten und ihre Freundschaft zu Günther Beckstein [Ausführliche Zitierung nicht verfügbar]
+
+ Es war immer schon falsch, komplexe Fragen mit schlichten Parolen à la Verbotspartei zu beantworten. Angesichts riesengroßer Herausforderungen wie der <B>Klimakrise</> gilt das umso mehr.
+Wie ist Ihr Verhältnis zu Markus Söder?
+
+NUN19/NOV.00952 Nürnberger Nachrichten, 15.11.2019, S. 11; Wem gehört die Stadt? Beim NN-Forum diskutieren Experten darüber, was gute Plätze ausmacht, warum sie so wichtig für die Gesellschaft sind  und ob Nürnberg sich wirklich besonders schwer damit tut [Ausführliche Zitierung nicht verfügbar]
+
+ Fest steht am Ende des Abends jedoch: Der öffentliche Raum ist das Wohnzimmer der Gesellschaft, wie es Landschaftsarchitekt Hirschmann formuliert. In einer Bevölkerung mit immer mehr Single-Haushalten, der zudem eine <B>Klimakrise</> ins Haus steht, gewinnt der öffentliche Raum weiter an Bedeutung. Es ist deshalb sowohl Aufgabe der Politik, diesen für alle zu gestalten, als auch der Bürger, sich für ihn einzusetzen.
+
+NUN19/NOV.02146 Nürnberger Nachrichten, 30.11.2019, S. 2; Protest am Scheideweg - Symbolpolitik ist schlechter Maßstab für Klimaschützer [Ausführliche Zitierung nicht verfügbar]
+
+ Beides wäre töricht.
+Stattdessen muss die Politik weiter den Druck der Straße spüren: Denn der <B>Klimakrise</> muss endlich seriös und nachhaltig begegnet werden. Die Natur zu schützen hat übrigens nichts mit Verbotspolitik zu tun, wie es die Gegner einschneidender Maßnahmen gerne betonen.
+
+NUN19/DEZ.00883 Nürnberger Nachrichten, 13.12.2019, S. 4; Person des Jahres - Trump giftet gegen Greta [Ausführliche Zitierung nicht verfügbar]
+
+ Gerade entspanne ich mich und schaue mir mit einem Freund einen guten alten Film an, schrieb sie am Donnerstag als biografische Angabe auf ihrem Twitter-Profil.
+Bereits Ende September hatte Trump die junge Schwedin öffentlich verhöhnt  rund um die UN-Generalversammlung, bei der sie eindringlich das Nichtstun der Mächtigen dieser Welt mit Blick auf die <B>Klimakrise</> angeprangert hatte.dpa
+
+NUN19/DEZ.01088 Nürnberger Nachrichten, 16.12.2019, S. 6; Thunberg contra Bahn - Aktivistin berichtet von überfülltem ICE auf ihrer Heimreise nach Schweden [Ausführliche Zitierung nicht verfügbar]
+
+ In einer Rede äußerte sie an einer Stelle, man müsse politische Entscheidungsträger an die Wand stellen, damit sie ihren Job machen. Dafür entschuldigte sich Thunberg. Sie habe auf Englisch nur ausdrücken wollen, dass die Politiker zur Verantwortung in der <B>Klimakrise</> gezogen werden müssten. Dabei habe sie eine Redewendung aus dem Schwedischen übernommen, nämlich att ställa någon mot väggen  wörtlich übersetzt bedeutet das jemanden an die Wand stellen, gemeint ist aber in die Ecke drängen.dpa
+
+NUN19/DEZ.01100 Nürnberger Nachrichten, 16.12.2019, S. 1; Bremser lähmen die Welt Auf das Minimal-Ergebnis beim Klimagipfel in Madrid reagieren Umweltschützer bestürzt [Ausführliche Zitierung nicht verfügbar]
+
+ Ihr Fazit: Es wurde eine riesengroße Chance vertan. Die Staatengemeinschaft hat sich im technischen Verhandlungsmarathon verloren und es nicht geschafft, ein klares Bekenntnis im Kampf gegen die <B>Klimakrise</> aufzuschreiben. Die großen Bremser wie Brasilien und die USA lähmen die ganze Welt.
+
+NUN19/DEZ.01100 Nürnberger Nachrichten, 16.12.2019, S. 1; Bremser lähmen die Welt Auf das Minimal-Ergebnis beim Klimagipfel in Madrid reagieren Umweltschützer bestürzt [Ausführliche Zitierung nicht verfügbar]
+
+
+Für sie sei klar: Ich werde 2020 noch stärker die unterstützen, deren Stimmen nicht gehört wurden. Die jungen Menschen, die indigenen Völker, die Frauen und den globalen Süden. Klimagerechtigkeit gebe es nicht ohne finanzielle Entschädigung der Industriestaaten für die Ärmsten, die schon heute wegen der <B>Klimakrise</> ihre Heimat verlieren. Deutschland müsse Vorbild für den gelungenen Umbau zu einer grünen Industrienation sein. (Leitartikel Seite 2, Berichte Seite 6)dpa/aj
+Auf das Minimal-Ergebnis beim Klimagipfel in Madrid reagieren Umweltschützer bestürzt.
+
+NUN19/DEZ.01771 Nürnberger Nachrichten, 28.12.2019, S. 3; Was ist denn Radikalität? [Ausführliche Zitierung nicht verfügbar]
+
+ Wir versuchen, dem Luft zu machen.
+In Ihrem Buch Vom Ende der <B>Klimakrise</> schreiben Sie von eben jenem Frust und der Ermüdung. Wussten Sie, worauf Sie sich einlassen?
+
+NUN19/DEZ.01771 Nürnberger Nachrichten, 28.12.2019, S. 3; Was ist denn Radikalität? [Ausführliche Zitierung nicht verfügbar]
+
+ Was heißt das?
+Menschen nehmen scheinbar an, die <B>Klimakrise</> sei zufällig entstanden und wir haben nur zufällig unzureichend darauf reagiert. Als seien das Sachzwänge und Alternativlosigkeiten gewesen.
+
+NUN19/DEZ.01771 Nürnberger Nachrichten, 28.12.2019, S. 3; Was ist denn Radikalität? [Ausführliche Zitierung nicht verfügbar]
+
+
+In der Klimafrage? Ja, dort wird so getan, als sei es unzumutbar, die wissenschaftliche Wahrheit über die <B>Klimakrise</> zu kommunizieren. Ich habe im letzten Jahr Hunderte Gespräche mit Menschen in Entscheiderpositionen geführt.
+
+NUN19/DEZ.01771 Nürnberger Nachrichten, 28.12.2019, S. 3; Was ist denn Radikalität? [Ausführliche Zitierung nicht verfügbar]
+
+ Was ist der große Nutzen der Bewegung, der Nutzen, weswegen man sagen müsste, dass die Bewegung bleiben und weitermachen muss?
+Zum Beispiel, dass sich die Nürnberger Nachrichten und die Nürnberger Zeitung in der Jahresendbeilage mit einer ganzen Seite der <B>Klimakrise</> widmen. Das ist ein Zeichen, dass wir eine Debatte gestartet haben über eine fatal übersehene Krise.
+
+NUN19/DEZ.01841 Nürnberger Nachrichten, 28.12.2019, S. 7; Poesie und Politik - Das Bamberger Literaturfestival lockt mit buntem Programm [Ausführliche Zitierung nicht verfügbar]
+
+ Dort gastiert am 8. Februar auch der Fürther Kabarettist Matthias Egersdörfer mit seinem Roman Vorstadtprinz sowie am 17. Februar die Soziologin Necla Kelek mit ihrem Buch Die unheilige Familie  Wie die islamische Tradition Frauen und Kinder entrechtet.
+Der ehemalige SPD-Parteivorsitzende Franz Müntefering macht sich am 12. Februar Gedanken über das Älterwerden in dieser Zeit. Und Luisa Neubauer, eine der Hauptorganisatorinnen von Fridays For Future, berichtet am 16. Februar Vom Ende der <B>Klimakrise.</>
+Es gibt auch wieder einige Lesungen mit Musik, darunter Tanka Kinkel und die Capella Antiqua Bambergensis (8. 2.), die Gruppe Musenwunder (8. 2.), der Schauspieler August Zirner im Duo mit dem Jazzmusiker Sven Faller (9. 2.) und die Schriftstellerin Nora Gomringer mit dem Schlagzeuger Philipp Scholz (11. 2.).
+
+NUN19/DEZ.01967 Nürnberger Nachrichten, 31.12.2019, S. 13; Mitgliederboom - Bund Naturschutz spürt enormen Rückenwind [Ausführliche Zitierung nicht verfügbar]
+
+
+1,7 Millionen Unterschriften
+Die Auswirkungen der <B>Klimakrise</> seien bei den Menschen vor Ort spürbarer als noch vor einigen Jahren, betont der BN-Landesbeauftragte Martin Geilhufe. Zeichen dafür seien unter anderem das Waldsterben und die niedrigen Grundwasserstände.
+
+NUN19/DEZ.02005 Nürnberger Nachrichten, 31.12.2019, S. 1; Bund Naturschutz - Mitglieder-Rekord in Bayern [Ausführliche Zitierung nicht verfügbar]
+
+ 2019 stieg die Zahl der Mitglieder um etwa 15 000 auf einen neuen Höchststand von knapp 250 000.
+Die spürbarere Bedrohung durch die <B>Klimakrise</> und das Artensterben habe zu einem erheblich stärkeren Engagement geführt, sagte BN-Landesvorsitzender Richard Mergner. Das erfolgreiche Volksbegehren zu Jahresbeginn habe für viel Rückenwind gesorgt.
+
+NUN20/JAN.00649 Nürnberger Nachrichten, 11.01.2020, S. 1; Siemens umgarnt FFF - Konzernchef Joe Kaeser bietet der Fridays-for-Future-Aktivistin Luisa Neubauer einen Job an [Ausführliche Zitierung nicht verfügbar]
+
+ Die Gleise sollen ein Kohlebergwerk im australischen Bundesstaat Queensland erschließen, das dem indischen Minenbetreiber Adani gehört.
+"Die Adani-Mine wird die <B>Klimakrise</> weiter befeuern", sagte der FFF-Aktivist Nick Heubeck, der ebenfalls an dem Treffen mit Kaeser teilnahm. Mit Blick auf die katastrophalen Wald- und Buschbrände in Australien ergänzte der 21-Jährige: "Das Verbrennen der dreckigen Kohle wird die Waldbrandgefahr weiter steigen lassen." Siemens müsse das Projekt daher stoppen.
+
+NUN20/JAN.00659 Nürnberger Nachrichten, 11.01.2020, S. 1; Siemens umgarnt FFF - Konzernchef Joe Kaeser bietet der Fridays-for-Future-Aktivistin Luisa Neubauer einen Job an [Ausführliche Zitierung nicht verfügbar]
+
+ Siemens will bis Montag über die Lieferung der Zugsignalanlage entscheiden.
+"Die Adani-Mine wird die <B>Klimakrise</> weiter befeuern", sagte der FFF-Aktivist Nick Heubeck, der an dem Treffen mit Kaeser teilnahm. Mit Blick auf die katastrophalen Wald- und Buschbrände in Australien ergänzte er: "Das Verbrennen der dreckigen Kohle wird die Waldbrandgefahr weiter steigen lassen." Siemens müsse das Projekt daher stoppen.
+
+NUN20/JAN.00754 Nürnberger Nachrichten, 14.01.2020, S. 19; Bleiben die Proteste vergebens? Die Kritik an Siemens reißt nicht ab [Ausführliche Zitierung nicht verfügbar]
+
+ Sie nennt die Entscheidung einen "Skandal". "Siemens hat es sich zum Ziel gesetzt, bis 2030 klimaneutral zu werden und eine führende Rolle im Kampf für Klimaschutz einzunehmen. Eine Investition in den Klimakiller Kohlekraft ist damit in keinster Weise vereinbar und muss wie ein Hohn auf die Millionen Menschen in Australien wirken, die gegen die durch die <B>Klimakrise</> verstärkten unkontrollierten Buschfeuer kämpfen."
+Nachhaltigkeits-Komitee geplant
+
+NUN20/JAN.00980 Nürnberger Nachrichten, 17.01.2020, S. 11; DER STANDPUNKT - Der Öko-Plan gegen die Klimakrise // An den Parteien vorbei [Ausführliche Zitierung nicht verfügbar]
+
+DER STANDPUNKT
+Der Öko-Plan gegen die <B>Klimakrise</> // An den Parteien vorbei
+Ein halbes Jahr haben die Aktivistinnen und Aktivisten der "Fridays for Future"-Bewegung in Nürnberg an dem Konzept gefeilt.
+
+NUN20/JAN.01354 Nürnberger Nachrichten, 22.01.2020, S. 17; Fernduell in Davos - Donald Trump setzt auf Optimismus, Greta Thunberg hört nur &#8222;leere Worte&#8220; [Ausführliche Zitierung nicht verfügbar]
+
+ Eure Untätigkeit heizt die Flammen stündlich an", rief Thunberg den Teilnehmern aus Politik, Wirtschaft und Gesellschaft zu. "Wir sagen euch immer noch, dass ihr in Panik geraten und so handeln sollt, als ob ihr eure Kinder über alles liebt." Sie kritisierte, "leere Worte und Versprechen" sollten den Eindruck erwecken, dass etwas für das Klima getan werde, sie brächten aber nichts gegen die <B>Klimakrise.</>
+Trump und Thunberg sprachen kurz nacheinander in unterschiedlichen Räumen.
+
+NUN20/JAN.01641 Nürnberger Nachrichten, 27.01.2020, S. 23; Die Katastrophe kommt - Jonathan Franzen hält den Klimawandel für unausweichlich [Ausführliche Zitierung nicht verfügbar]
+
+
+Von Jonathan Franzen ist geradeim Rowohlt-Verlag der Essay "Wann hören wir auf, uns etwas vorzumachen?" (60 Seiten, 8 Euro) erschienen. Der schmale Band enthält neben einem Essay und dem bislang unveröffentlichten Vorwort des Autors auch ein Interview zur <B>Klimakrise,</> das Franzen der Literarischen Welt gegeben hat.dpa/nn
+Jonathan Franzen hält den Klimawandel für unausweichlich.
+
+NUN20/FEB.00882 Nürnberger Nachrichten, 13.02.2020, S. 13; &#8222;Wir mussten die Regierung zum Erfolg zwingen&#8220; Die Initiatoren des Volksbegehrens Rettet die Bienen ziehen nach einem Jahr eine durchwachsene Bilanz [Ausführliche Zitierung nicht verfügbar]
+
+
+Allzu große Sorgen, dass ihnen bald das nächste Volksbegehren ins Haus stehen könnte, müssen sich die Regierenden nicht machen. Es gebe zwar genug Themen, sagen die Initiatoren des letzten, vom Flächenfraß über das Waldsterben bis zur <B>Klimakrise.</>Doch ein Begehren sei nicht nur das letzte Mittel, sondern teuer und aufwendig.
+
+NUN20/FEB.01071 Nürnberger Nachrichten, 15.02.2020, S. 5; Ein Tempolimit schont nicht nur das Klima - Auch die Zahl der Verkehrstoten könnte dadurch sinken [Ausführliche Zitierung nicht verfügbar]
+
+ Deutschland gehört zu den wenigen Staaten weltweit, in denen es kein Tempolimit gibt. Durch die <B>Klimakrise</> wurde die Debatte neu entfacht. Die wichtigsten Fragen und Antworten:
+
+NUN20/FEB.01318 Nürnberger Nachrichten, 19.02.2020, S. 9; ZUR SACHE - Ein drastischer Preisverfall auf dem Holzmarkt [Ausführliche Zitierung nicht verfügbar]
+
+ Wobei "längerfristig" für den Forstamtsleiter heißt: drei bis fünf Jahre. Wirklich Entspannung bringt dies bei der globalen <B>Klimakrise</> nicht.
+Deutlicher wird der "Gemeinsame Forstausschuss der Bundesvereinigung der kommunalen Spitzenverbände": Er spricht von einem "drastischen Preisverfall" auf dem Holzmarkt.
+
+NUN20/FEB.01320 Nürnberger Nachrichten, 19.02.2020, S. 9; DER STANDPUNKT - Keine einfachen Antworten - Bei Bewältigung der Klimakrise tickt die Uhr weiter [Ausführliche Zitierung nicht verfügbar]
+
+
+VON HARTMUT VOIGT
+Die Frage ist nicht mehr: Wie bereiten wir uns auf die <B>Klimakrise</> vor? Die Frage ist: Wie können wir noch auf die sich abzeichnenden Folgen reagieren?
+
+NUN20/FEB.01320 Nürnberger Nachrichten, 19.02.2020, S. 9; DER STANDPUNKT - Keine einfachen Antworten - Bei Bewältigung der Klimakrise tickt die Uhr weiter [Ausführliche Zitierung nicht verfügbar]
+
+
+hartmut voigt.@pressenetz.dehartmut voigt.@pressenetz.de
+Bei Bewältigung der <B>Klimakrise</> tickt die Uhr weiter
+
+NUN20/FEB.01831 Nürnberger Nachrichten, 27.02.2020, S. 11; WALDUMBAU - Rettung durch die Esskastanie? [Ausführliche Zitierung nicht verfügbar]
+
+
+Rettung durch die Esskastanie?
+Wie kann der wegen der <B>Klimakrise</> unumgängliche Umbau des Reichswaldes und der städtischen Wäldchen konkret angepackt werden? Die Bayerischen Staatsforsten und die Stadtverwaltung haben dazu ein Positionspapier erarbeitet.
+
+NUN20/MAR.01153 Nürnberger Nachrichten, 18.03.2020, S. 3; &#8222;Viele bangen um ihre Würde&#8220; Die Erlanger Soziologin Aida Bosch beschreibt die sozialen Herausforderungen der Corona-Pandemie und erklärt, warum Menschen Klopapier hamstern [Ausführliche Zitierung nicht verfügbar]
+
+ Über den Punkt müssen wir langfristig nachdenken. Das Coronavirus ist ja nicht die einzige Bedrohung, die <B>Klimakrise</> kommt schon lange auf uns zu und hat noch viel größere Auswirkungen.
+Ohne dass wir da angemessen reagieren.
+
+NUN20/APR.00174 Nürnberger Nachrichten, 03.04.2020, S. 3; Der Planet atmet auf - Wegen Corona legt die Weltwirtschaft eine Zwangspause ein, das hilft Umwelt und Klima [Ausführliche Zitierung nicht verfügbar]
+
+ "Wir haben so einen Rückhalt in der Bevölkerung. Zuletzt waren 1,4 Millionen Menschen für das Klima auf deutschen Straßen - nur weil die <B>Klimakrise</> gerade nicht so präsent ist, sind diese Menschen nicht einfach weg."
+Mit internen Online-Seminaren und digitalen Streiks, etwa über Livestreams im Netz, versuche man die Bewegung in der Öffentlichkeit präsent zu halten.
+
+NUN20/APR.00174 Nürnberger Nachrichten, 03.04.2020, S. 3; Der Planet atmet auf - Wegen Corona legt die Weltwirtschaft eine Zwangspause ein, das hilft Umwelt und Klima [Ausführliche Zitierung nicht verfügbar]
+
+ "Wir sehen, es liegt nicht an einem grundsätzlichen Unwillen der Politik zu handeln."
+Die <B>Klimakrise</> ist vielleicht in den Hintergrund getreten, weg ist sie deswegen aber noch lange nicht, sagt die 17-Jährige. "Wir werden noch eine starke Stimme sein, wenn es darum geht, wohin die vielen Milliarden verteilt werden." Spätestens dann, wenn Rom wieder nach Diesel stinkt, Smog über China liegt oder sich die Kanäle in Venedig wieder braun färben.
+
+NUN20/APR.00491 Nürnberger Nachrichten, 09.04.2020, S. 9; STANDPUNKT - Der Klimawandel bleibt uns erhalten // Enormer Ansturm auf Heizöl [Ausführliche Zitierung nicht verfügbar]
+
+
+Es ist erst ein Vierteljahr her, da schockte eine Meldung die Verbraucher: Ölheizungen droht in einigen Jahren das Aus. Mit Blick auf die mittlerweile auch in Franken bemerkbare <B>Klimakrise</> will die Politik den Kohlendioxid-Ausstoß deutlich drosseln. Und da sind unter anderem auch Ölheizungen im Visier.
+
+NUN20/APR.00622 Nürnberger Nachrichten, 11.04.2020, S. 17; Fairere Wirtschaft soll vor Viren schützen - BN-Landesvorsitzender Richard Mergner kritisiert Bayerns Krisen-Politik und fordert ein &#8222;Konjunkturprogramm Nachhaltigkeit&#8220; [Ausführliche Zitierung nicht verfügbar]
+
+ Man müsse aber auch über die Ursachen und Beschleuniger von Krisen durch Virenausbreitung diskutieren. Und man dürfe nicht vergessen, das Problem der <B>Klimakrise</> genauso ernst zu nehmen sei wie die Corona-Pandemie.
+"Wir wissen zum Beispiel, dass die Rodung von Regenwäldern für den Anbau von Soja am Ende die Verbreitung von Viren begünstigt", betonte er.
+
+NUN20/APR.00799 Nürnberger Nachrichten, 16.04.2020, S. 8; &#8222;Die Klimakrise macht keine Pause&#8220; Hannah Reemtsma von Fridays for Future berichtet über digitale Streiks und die Zukunft der Jugend-Protestbewegung [Ausführliche Zitierung nicht verfügbar]
+
+"Die <B>Klimakrise</> macht keine Pause"
+Jugendforscher haben bereits den Abgesang auf die weltweite Jugendbewegung Fridays for Future angestimmt.
+
+NUN20/APR.00799 Nürnberger Nachrichten, 16.04.2020, S. 8; &#8222;Die Klimakrise macht keine Pause&#8220; Hannah Reemtsma von Fridays for Future berichtet über digitale Streiks und die Zukunft der Jugend-Protestbewegung [Ausführliche Zitierung nicht verfügbar]
+
+ Besteht die Gefahr?
+Nein, wir fordern weiterhin mit dem selben Nachdruck eine Änderung der Klimapolitik und eine weltweite Klimagerechtigkeit, die es allen Menschen erlaubt, sicher und ohne die Gefahr von Naturkatastrophen zu leben, die durch die <B>Klimakrise</> verstärkt werden. Diese macht ja jetzt wegen Corona keine Pause und wir ebenso wenig.
+
+NUN20/APR.00799 Nürnberger Nachrichten, 16.04.2020, S. 8; &#8222;Die Klimakrise macht keine Pause&#8220; Hannah Reemtsma von Fridays for Future berichtet über digitale Streiks und die Zukunft der Jugend-Protestbewegung [Ausführliche Zitierung nicht verfügbar]
+
+ Ein paar von uns organisieren die bundesweite Aktion #wirbildenzukunft mit. WissenschaftlerInnen und Expert-Innen geben auf Youtube Webinare zu Themen rund um die <B>Klimakrise</> und Fridays moderieren. Wir wollen die streikfreie Zeit nutzen, um uns weiter zu bilden.
+
+NUN20/APR.00799 Nürnberger Nachrichten, 16.04.2020, S. 8; &#8222;Die Klimakrise macht keine Pause&#8220; Hannah Reemtsma von Fridays for Future berichtet über digitale Streiks und die Zukunft der Jugend-Protestbewegung [Ausführliche Zitierung nicht verfügbar]
+
+ Wir wollen aber primär die Politik verändern. Und die Corona-Krise darf nicht dazu führen, dass diese die <B>Klimakrise</> aus dem Blick verliert.
+Luisa Neubauer gilt als das deutsche Gesicht von Fridays for Future.
+
+NUN20/APR.00919 Nürnberger Nachrichten, 18.04.2020, S. 3; IHRE MEINUNG ZÄHLT - Gestärkt aus der Krise? // Was denken Sie: Wie soll die Zukunft nach Corona aussehen [Ausführliche Zitierung nicht verfügbar]
+
+ Wie kann es weitergehen nach der Krise, fragen wir den in Jena lehrenden Soziologie-Professor, der sich gern im Schwarzwald entspannt, seiner Heimat?
+Er sagt unserer Zeitung: "Bisher haben wir uns gegenüber der <B>Klimakrise</> und den Finanzmärkten als ohnmächtig erfahren - nach dem Motto: Die Hamsterräder laufen einfach immer schneller, da kann niemand etwas machen... Nun stellen wir fest: Wir können sie sehr wohl anhalten, wir sind politisch handlungsfähig, denn es ist ja nicht das Virus, das die Flugzuge vom Himmel holt.
+
+NUN20/APR.00919 Nürnberger Nachrichten, 18.04.2020, S. 3; IHRE MEINUNG ZÄHLT - Gestärkt aus der Krise? // Was denken Sie: Wie soll die Zukunft nach Corona aussehen [Ausführliche Zitierung nicht verfügbar]
+
+ Nun stellen wir fest: Wir können sie sehr wohl anhalten, wir sind politisch handlungsfähig, denn es ist ja nicht das Virus, das die Flugzuge vom Himmel holt. Diese politische Selbstwirksamkeitserfahrung wird nachwirken und uns handlungsfähiger machen - auch und gerade in der <B>Klimakrise.</>Aber sie wird auch dafür sorgen, dass (Finanz-)Märkte wieder eingebettet werden in politische und kulturelle Bedürfnisse und Überlegungen - und nicht umgekehrt."
+
+NUN20/APR.01284 Nürnberger Nachrichten, 25.04.2020, S. 7; Eine Lobby für die Natur [Ausführliche Zitierung nicht verfügbar]
+
+ Bei Störungen können sie zirpende Geräusche von sich geben.
+Ein Opfer von <B>Klimakrise</> und Verschwinden von Sumpfgebieten ist die Speer Azurjungfer (Coenagrion hastulatum). Sie ist ohnehin schon selten.
+
+NUN20/APR.01441 Nürnberger Nachrichten, 28.04.2020, S. 9; Protest - Milliarden für den Klimaschutz [Ausführliche Zitierung nicht verfügbar]
+
+
+"Die in den letzten Wochen von der Politik getroffenen Schutzmaßnahmen im Zusammenhang mit der Coronakrise zeigen, wie schnell und entschlossen Politik handeln kann, wenn die Notwendigkeit erkannt wird und der Wille da ist", heißt es in einer Erklärung der Organisation. Die gleiche Entschlossenheit und den gleichen Handlungswillen erwartet sie von der Politik auch im Zusammenhang mit der <B>Klimakrise</> und dem Artensterben. "Auch hier sind Menschenleben in Gefahr, in viel größerem Ausmaß als das bei der Coronakrise der Fall ist.
+
+NUN20/APR.01441 Nürnberger Nachrichten, 28.04.2020, S. 9; Protest - Milliarden für den Klimaschutz [Ausführliche Zitierung nicht verfügbar]
+
+ "Auch hier sind Menschenleben in Gefahr, in viel größerem Ausmaß als das bei der Coronakrise der Fall ist. Im Vergleich zur <B>Klimakrise</> ist die Coronakrise ein Sandkastenspiel." Extinction Rebellion fordert von der Politik daher, "auch in den Bereichen Klimakrise und Artensterben endlich auf die Wissenschaft zu hören und mit den Milliardenschweren Investitionsprogrammen die Weichen zu stellen, die nötig sind um die Auswirkungen der Klimakrise zu verringern".nn
+
+NUN20/APR.01441 Nürnberger Nachrichten, 28.04.2020, S. 9; Protest - Milliarden für den Klimaschutz [Ausführliche Zitierung nicht verfügbar]
+
+ "Auch hier sind Menschenleben in Gefahr, in viel größerem Ausmaß als das bei der Coronakrise der Fall ist. Im Vergleich zur Klimakrise ist die Coronakrise ein Sandkastenspiel." Extinction Rebellion fordert von der Politik daher, "auch in den Bereichen <B>Klimakrise</> und Artensterben endlich auf die Wissenschaft zu hören und mit den Milliardenschweren Investitionsprogrammen die Weichen zu stellen, die nötig sind um die Auswirkungen der Klimakrise zu verringern".nn
+
+NUN20/APR.01441 Nürnberger Nachrichten, 28.04.2020, S. 9; Protest - Milliarden für den Klimaschutz [Ausführliche Zitierung nicht verfügbar]
+
+ "Auch hier sind Menschenleben in Gefahr, in viel größerem Ausmaß als das bei der Coronakrise der Fall ist. Im Vergleich zur Klimakrise ist die Coronakrise ein Sandkastenspiel." Extinction Rebellion fordert von der Politik daher, "auch in den Bereichen Klimakrise und Artensterben endlich auf die Wissenschaft zu hören und mit den Milliardenschweren Investitionsprogrammen die Weichen zu stellen, die nötig sind um die Auswirkungen der <B>Klimakrise</> zu verringern".nn
+
+NUN20/APR.01459 Nürnberger Nachrichten, 28.04.2020, S. 4; Klimaschutz in Corona-Zeiten &#8211; jetzt erst recht? Nicht nur die üblichen Verdächtigen mahnen, über die Pandemiedebatten die globalen Umweltprobleme nicht zu vergessen [Ausführliche Zitierung nicht verfügbar]
+
+ Zugleich forderte der Industrieverband BDI aber, die Zwischenziele für 2030 "auf den Prüfstand zu stellen".
+Schulze hofft, dass die Coronakrise die Bereitschaft der Menschen zum Klima- und Umweltschutz sogar erhöht: "Viele Menschen auf der ganzen Welt spüren im Moment, wie sich Krise anfühlt", sagte sie."Ich vertraue daher darauf, dass künftig auch mehr Menschen bereit sind, mehr zu tun gegen die langfristigen Umweltrisiken, die uns sonst drohen - die <B>Klimakrise</> und die Zerstörung der Ökosysteme." Gerade lerne man, wie wichtig es sei, der Wissenschaft zuzuhören.
+Der Petersberger Klimadialog findet in diesem Jahr erstmals als Videokonferenz statt.
+
+NUN20/APR.01459 Nürnberger Nachrichten, 28.04.2020, S. 4; Klimaschutz in Corona-Zeiten &#8211; jetzt erst recht? Nicht nur die üblichen Verdächtigen mahnen, über die Pandemiedebatten die globalen Umweltprobleme nicht zu vergessen [Ausführliche Zitierung nicht verfügbar]
+
+
+Die Coronakrise hat den Klimaschutz vom Spitzenplatz der politischen Agenda verdrängt. Die <B>Klimakrise</> sei nicht weg, auch wenn die Aufmerksamkeit gerade auf der Pandemie liege, mahnte Schulze. "Anders als beim Kampf gegen das Coronavirus kennen wir die Impfstoffe gegen die Klimakrise bereits.
+
+NUN20/APR.01459 Nürnberger Nachrichten, 28.04.2020, S. 4; Klimaschutz in Corona-Zeiten &#8211; jetzt erst recht? Nicht nur die üblichen Verdächtigen mahnen, über die Pandemiedebatten die globalen Umweltprobleme nicht zu vergessen [Ausführliche Zitierung nicht verfügbar]
+
+ Die Klimakrise sei nicht weg, auch wenn die Aufmerksamkeit gerade auf der Pandemie liege, mahnte Schulze. "Anders als beim Kampf gegen das Coronavirus kennen wir die Impfstoffe gegen die <B>Klimakrise</> bereits. Sie sind verfügbar, sie sind bezahlbar und sie machen unser Leben besser." Das seien etwa Energie aus Wind und Sonne, Elektromobilität, Recycling, energie-autarke Gebäude oder eine widerstandsfähige Landwirtschaft.
+
+NUN20/APR.01564 Nürnberger Nachrichten, 30.04.2020, S. 12; Frischer Wind oder alte Fehler? Die Grünen fürchten, dass man aus der Coronakrise nichts lernt [Ausführliche Zitierung nicht verfügbar]
+
+ Der Landtagsabgeordnete aus Feuchtwangen, bei seiner Fraktion Sprecher für Energie und Klimaschutz, hat deshalb mit seinem Fraktionsvorsitzenden Ludwig Hartmann und dem Grünen-Mobilitätsexperten Markus Büchler ein Positionspapier verfasst, das in 23 Punkten den Weg in ein krisenfesteres System weisen soll. Wie viele Klimaforscher weltweit befürchten sie, dass wegen der Coronakrise die <B>Klimakrise</> in Vergessenheit gerät.
+"Wie eine Papiergirlande"
+
+NUN20/APR.01564 Nürnberger Nachrichten, 30.04.2020, S. 12; Frischer Wind oder alte Fehler? Die Grünen fürchten, dass man aus der Coronakrise nichts lernt [Ausführliche Zitierung nicht verfügbar]
+
+
+Und die Staatsregierung? Von der wünschen sich die Grünen denselben Mut zu umfassenden Maßnahmen, den sie in der Coronakrise gezeigt hat, künftig auch in der <B>Klimakrise.</>Grünen Worten sollen auch grüne Taten folgen.
+
+NUN20/MAI.00112 Nürnberger Nachrichten, 04.05.2020, S. 8; Klimaschutz nur mit der Wirtschaft [Ausführliche Zitierung nicht verfügbar]
+
+Klimaschutz nur mit der Wirtschaft
+"Die <B>Klimakrise</> macht keine Pause":
+Hannah Reemtsma von Fridays for Future berichtet über digitale Streiks und die Zukunft der Jugend-Protestbewegung (16.4.20)
+
+NUN20/MAI.00295 Nürnberger Nachrichten, 07.05.2020, S. 3; Warum die Coronakrise die Erde nicht rettet - Der Klimaexperte Mojib Latif sagt, das mobilisierte Geld im Kampf gegen das Virus dürfe nicht in die Zementierung alter Strukturen fließen [Ausführliche Zitierung nicht verfügbar]
+
+ Das Klima entwickelt sich aber über Jahrzehnte. Das macht die <B>Klimakrise</> scheinbar weniger gefährlich. In der Wissenschaft herrscht seit 30 Jahren Einigkeit - trotz der wohlfeilen Worte der Politik auf allen Klimakonferenzen ist der CO2-Ausstoß aber seit 1990 um 60 Prozent gestiegen.
+
+NUN20/MAI.01341 Nürnberger Nachrichten, 26.05.2020, S. 8; &#8222;Keine Lust auf Familien-Gedöns&#8220; Mit Titus und Marc Schüller haben neuerdings zwei Brüder Sitz und Stimme im Stadtrat [Ausführliche Zitierung nicht verfügbar]
+
+ Wir können da aber nicht mehr mitgehen. Das neue Umweltgutachten sowie die Zuspitzung der <B>Klimakrise</> und damit der Wert von Boden, Wasser und Grün haben heute eine stärkere Bedeutung. Natürlich gibt es einen Wandel, das sollte legitim sein, auch bei unserem Fraktionsvorsitzenden Achim Mletzko.
+
+NUN20/JUN.00039 Nürnberger Nachrichten, 02.06.2020, S. 6; Milliarden gegen die Rezession - Finanzminister Olaf Scholz will beim Konjunkturpaket klotzen, nicht kleckern [Ausführliche Zitierung nicht verfügbar]
+
+
+Zusätzlich solle es aber auch Anreize zum Kauf moderner Benziner und Diesel geben. Das stößt angesichts der <B>Klimakrise</> aber nicht nur bei Umweltverbänden auf Ablehnung, sondern ist auch in der Koalition umstritten. Schützenhilfe kommt hingegen von Ländern, in denen die Autoindustrie eine wichtige Rolle spielt.
+
+NUN20/JUN.01234 Nürnberger Nachrichten, 22.06.2020, S. 1; [NEBENBEI]v - Eine Spinne namens Greta - o [Ausführliche Zitierung nicht verfügbar]
+
+ Am Samstag sprach sie beim beliebten Mittsommer-Programm des schwedischen Rundfunks. Sie verglich das (Nicht-)Handeln von Regierungen und Unternehmen in der <B>Klimakrise</> mit dem Märchen "Des Kaisers neue Kleider", wo am Ende nur ein Kind die Wahrheit ausspricht - "er hat ja gar nichts an". Thunberg: "Die Kaiser sind nackt. Jeder einzelne von ihnen.
+
+NUN20/JUN.01275 Nürnberger Nachrichten, 22.06.2020, S. 2; Letzte Chance für den Planeten - Die Corona-Pandemie hat den Klimaschutz in den Hintergrund gedrängt [Ausführliche Zitierung nicht verfügbar]
+
+
+In der Finanzkrise 2008 sagte das EZB-Chef Mario Draghi, während der Corona-Pandemie Bayerns Ministerpräsident Markus Söder. In der <B>Klimakrise</> fiel dieser Satz nie. Das ist das klassische Dilemma im Klimaschutz, die Katastrophe liegt diffus in der Zukunft, schimmert allenfalls über Hochwasser, Dürren und Waldbrände hindurch - die Krise, die die Menschheit bedroht, bleibt aber im Verborgenen.
+
+NUN20/JUL.00728 Nürnberger Nachrichten, 11.07.2020, S. 12; Einsam auf der Steintribüne - Wegen der Corona-Bestimmungen fällt das Norisring-Rennen an diesem Wochenende aus [Ausführliche Zitierung nicht verfügbar]
+
+ Doch der MCN hat den Rennsportfreunden dafür Gutscheine für die DTM 2021 ausgestellt, Rückzahlungen gab es nicht.
+Der Motorsport-Club Nürnberg steht für das nächste Norisring-Rennen in einem Jahr bereit - trotz aller Diskussionen, ob ein solches Event mit Blick auf die <B>Klimakrise</> überhaupt noch zeitgemäß ist. "Ich glaube nicht, dass die DTM dadurch dauerhaft infrage gestellt ist", meint Schlosser.
+
+NUN20/AUG.00263 Nürnberger Nachrichten, 06.08.2020, S. 13; Der Käse-Streit von Zypern - Die Insel fürchtet um ihre Agrarprodukte und könnte deshalb sogar das Freihandelsabkommen Ceta stoppen [Ausführliche Zitierung nicht verfügbar]
+
+ "Die Ablehnung durch das zyprische Parlament zeigt, wie umstritten das Abkommen ist", erklärte die Grünen-Europapolitikerin Anna Cavazzini. "In der <B>Klimakrise</> brauchen wir einen Kurswechsel in der Handelspolitik hin zu hohen Umwelt- und Sozialstandards."
+Ceta ist seit 2017 vorläufig und bis zur endgültigen Ratifizierung aller 27 nationalen Parlamente nur teilweise in Kraft und versprach allen Handelspartnern große Erleichterungen.
+
+NUN20/AUG.00797 Nürnberger Nachrichten, 15.08.2020, S. 1; Raus mit der Sprache [Ausführliche Zitierung nicht verfügbar]
+
+ Insofern löst jede Umbenennung kognitiven Widerstand aus. Das ist aber vielleicht nicht der Hauptgrund, warum Neuprägungen wie <B>"Klimakrise",</> "PoC" oder "Länder des globalen Südens" keineswegs freudig angenommen werden. Auch Menschen, deren Gesinnung unverdächtig ist, fühlen sich bevormundet und stigmatisiert.
+
+NUN20/AUG.01176 Nürnberger Nachrichten, 21.08.2020, S. 3; Klima-Ikone besucht mächtigste Frau - Aktivistin Greta Thunberg fand Kanzlerin Angela Merkel &#8222;freundlich&#8220;, ist mit der Klimabilanz ihrer Regierung aber überhaupt nicht zufrieden [Ausführliche Zitierung nicht verfügbar]
+
+
+Die Einladung durch Angela Merkel ändert nichts daran, dass die Aktivistinnen höchst unzufrieden und skeptisch sind. "Nach zwei Jahren der Schulstreiks befindet sich die Welt immer noch in einem Zustand des Leugnens der <B>Klimakrise.</>Wir können so viele Treffen haben, wie wir wollen, aber der Wille zum Wandel ist nirgends in Sicht", schrieben sie in ihrem offenen Brief.
+
+NUN20/AUG.01188 Nürnberger Nachrichten, 21.08.2020, S. 1; Raus aus der Komfortzone - Greta Thunberg drängt Kanzlerin beim Thema Klimawandel [Ausführliche Zitierung nicht verfügbar]
+
+
+Berlin- Die schwedische Klimaaktivistin Greta Thunberg und weitere Mitstreiterinnen haben von der Bundesregierung größere Anstrengung im Kampf gegen den Klimawandel gefordert. Deutschland, das derzeit die EU-Ratspräsidentschaft innehat, müsse sich seiner Verantwortung stellen und "die <B>Klimakrise</> als Krise behandeln", sagte Thunberg gestern in Berlin nach einem Treffen mit Kanzlerin Angela Merkel. Politische Entscheider sollten "sich aus ihrer Komfortzone bewegen" und couragiert genug sein, an künftige Generationen zu denken.
+
+NUN20/SEP.00308 Nürnberger Nachrichten, 04.09.2020, S. 9; Aktivisten schlagen ihre Zelte auf - Das Bündnis Nürnberg for Future hat in der Innenstadt ein Klimacamp aufgebaut, das bis November bleiben soll [Ausführliche Zitierung nicht verfügbar]
+
+ Stehen bleiben sie nicht - aber das dürfte sich bald ändern, wenn es nach den Initiatoren des Klimacamps geht.
+Mit Anwohnern und Passanten ins Gespräch kommen wollen die Aktivisten des Bündnisses Nürnberg for Future, die am Donnerstag in unmittelbarer Nähe zum Nürnberger Rathaus ein Lager aufgebaut haben, das ab sofort als Dauermahnwache auf "die katastrophalen Auswirkungen der <B>Klimakrise"</> aufmerksam machen soll, wie es die Initiatoren in einer Mitteilung formulieren.
+Angemeldet hat das Klimacamp am Sebalder Platz der lokale Nürnberger Ableger der weltweiten Bewegung Fridays for Future - doch unterstützt werden die Schülerinnen und Schüler von einer breiten Mehrheit von Organisationen, darunter der Verein Bluepingu, der BUND Nürnberg, Greenpeace, der Radentscheid Nürnberg und Extinction Rebellion.
+
+NUN20/SEP.00485 Nürnberger Nachrichten, 07.09.2020, S. 15; Das Filmfestival trotzt der Pandemie - Pedro Almodóvar und Tilda Swinton bringen Glamour nach Venedig und Vanessa Kirby ist der Star der Stunde [Ausführliche Zitierung nicht verfügbar]
+
+
+Anders als Kirby und die weitere angereiste Lido-Prominenz, blieb Greta Thunberg zu Hause. Was natürlich keine Überraschung ist, schließlich muss die 17-jährige Ikone des jugendlichen Kampfs gegen die <B>Klimakrise</> nach einem Jahr Pause nun wieder zur Schule, und klimabewusster ist es sowieso. Sie ließ sich bequem in der Pressekonferenz per Live-Video dazuschalten.
+
+NUN20/SEP.00824 Nürnberger Nachrichten, 12.09.2020, S. 25; Altmaier überrascht mit Klimaschutz-Offensive - Ein Jahr vor der Bundestagswahl hisst der Wirtschaftsminister die grüne Fahne, doch nicht alle sind von dem Konzept begeistert [Ausführliche Zitierung nicht verfügbar]
+
+ Zudem will er "Auktionen" prüfen lassen, über die Unternehmen konkrete Gebote abgeben können, zu welchem Preis sie CO2 reduzieren können.
+- Institutionen wie eine parteiübergreifende Stiftung "Klima und Wirtschaft", ein "Haus der Energiewende", eine internationale EU-Agentur "Climate global", ein "Klima- und Wirtschaftsrat" im Bundeswirtschaftsministerium und eine "Klima-Universität" sollen den Kampf gegen die <B>Klimakrise</> weiter voranbringen.
+Ein Vorstoß der Bundesregierung sei das nicht, sondern von ihm persönlich, sagte Altmaier.
+
+NUN20/SEP.00857 Nürnberger Nachrichten, 14.09.2020, S. 6; Macht und Ohnmacht - Der Bodenschatz Öl hat viele Opec-Staaten sehr reich gemacht [Ausführliche Zitierung nicht verfügbar]
+
+ Aber nicht einmal finanziell starke Mitglieder könnten sich ein solches Preisniveau über lange Zeit leisten.
+Im Grundsatz glänzt der Bodenschatz Öl nach Überzeugung von Experten auch in Zeiten der <B>Klimakrise.</>"Der Treibstoff der Globalisierung ist und bleibt Öl", sagt der Energieexperte Andreas Goldthau von der Willy Brandt School of Public Policy an der Universität Erfurt.
+
+NUN20/SEP.01203 Nürnberger Nachrichten, 19.09.2020, S. 4; Von Europas &#8222;Wald-Städten&#8220; lernen? Kaliforniens Brände erreichen den US-Wahlkampf [Ausführliche Zitierung nicht verfügbar]
+
+ Der Demokrat reiste nicht persönlich nach Kalifornien, dafür aber seine Vizepräsidentschaftskandidatin Kamala Harris.
+Wissenschaftler sehen es als erwiesen an, dass die <B>Klimakrise</> Wetterextreme wie Trockenheit und Hitze verschärft, die zu heftigeren Waldbränden beitragen können. "Natürlich ist der Klimawandel real, von Menschen verursacht und an diesen Feuern deutlich abzulesen", sagt Craig Clements, Klimawissenschaftler an der San José State University.
+
+NUN20/SEP.01371 Nürnberger Nachrichten, 22.09.2020, S. 15; Reiche schaden der Umwelt - Lebensstil von betuchten Menschen trägt weit mehr zur Klimakrise bei als der von Ärmeren [Ausführliche Zitierung nicht verfügbar]
+
+ "Steuern für klimaschädliche SUVs und häufiges Fliegen wären ein erster Schritt."
+Lebensstil von betuchten Menschen trägt weit mehr zur <B>Klimakrise</> bei als der von Ärmeren.
+
+NUN20/SEP.01603 Nürnberger Nachrichten, 26.09.2020, S. 1; &#8222;Nur mit mehr Gelassenheit bekommt [FETT HZ]Reisen[/FETT HZ] wieder Sinn&#8220; [Ausführliche Zitierung nicht verfügbar]
+
+ Muss ich unbedingt einen klimaschädlichen Flug buchen? Die <B>Klimakrise</> schlägt sich vermutlich noch mehr im Entscheidungsverhalten der Menschen nieder. Wenn die Gesellschaft solche Werte mehr schätzt, werden sie auch beim Reisen zum Lifestyle erhoben.
+
+NUN20/SEP.01635 Nürnberger Nachrichten, 26.09.2020, S. 10; &#8222;Die Zeit läuft uns davon&#8220; Globaler Klimastreik: In Nürnberg demonstrierten 1500 Menschen für eine Energiewende [Ausführliche Zitierung nicht verfügbar]
+
+
+"Ich habe da die Angst vor den Folgen selbst mitgekriegt", sagt der 20-Jährige, der ebenso wie seine Mitstreiter davon ausgeht, dass sich vor allem im "globalen Süden" die Probleme schnell verschärfen werden. "In der <B>Klimakrise</> läuft uns die Zeit davon. Schon eine Erwärmung von zwei Grad kostet Millionen Menschenleben und riskiert eine unkontrollierbare Eskalation des Klimas." Die Corona-Krise habe gezeigt, dass die Regierung entschlossen handeln könne, das müsse sie jetzt auch im Bereich Klimaschutz tun.
+
+NUN20/OKT.00577 Nürnberger Nachrichten, 09.10.2020, S. 19; Hopfen und Malz sind noch nicht verloren - Der Nürnberger Hopfenhändler BartHaas verzeichnet für 2019 eine Rekordernte, doch die Nachfrage sank wegen Corona stark [Ausführliche Zitierung nicht verfügbar]
+
+
+Und das, obwohl die Coronakrise nicht die einzige Herausforderung für die Branche sei, erklärte Barth. Auch die <B>Klimakrise</> mache den Anbauern zunehmend zu schaffen, weil die Ernteerträge unberechenbarer werden. Zudem schränke die EU die Verwendung von Chemikalien beim Anbau zunehmend ein und auch die Gesellschaft verlange einen ökologischeren Anbau.
+
+NUN20/OKT.00822 Nürnberger Nachrichten, 14.10.2020, S. 3; Wer macht das Rennen? Nürnberg kämpft um den Kulturhauptstadt-Titel gegen vier Konkurrenten [Ausführliche Zitierung nicht verfügbar]
+
+
+Hildesheim
+Grün, grüner, Hildesheim: Die Stadt hat die <B>Klimakrise</> ganz nach oben auf ihre Agenda als Kulturhauptstadt gesetzt. Das Motto von Hildesheim mit seinen rund 260 000 Einwohnern lautet: "Wir kümmern uns - um einander, um uns selbst, um unseren Planeten, um unsere Vergangenheit und Zukunft". Der "New green deal" ist großes Thema, man will Zeichen setzen gegen den Druck der permanenten Selbstoptimierung und immer mehr Konsum.
+
+NUN20/OKT.00856 Nürnberger Nachrichten, 14.10.2020, S. 21; Die Tücken des Homeoffice - Bei den &#8222;Nürnberger Gesprächen&#8220; diskutierte das Podium über Corona und die Herausforderungen für den Arbeitsmarkt [Ausführliche Zitierung nicht verfügbar]
+
+ "Doch wir haben schon vor dem Virus darauf hingewiesen, dass Teile der Industrie in die Rezession schlittern", betonte Dieter Kempf, Prasident der Bundesvereinigung der Deutschen Industrie. Hinzu kämen Herausforderungen wie die <B>Klimakrise,</> der demographische Wandel und die Digitalisierung. "Das Problem ist zudem, dass diese Dreifachherausforderungen nicht in die gleiche Richtung gehen", so Pfeiffer.
+
+NUN20/OKT.01397 Nürnberger Nachrichten, 22.10.2020, S. 17; Öko-Wende oder Mogelpackung? Europas Agrarreform nimmt konkrete Züge an &#8211; mehr Geld für Höfe, auf denen klimaschonend gewirtschaftet wird [Ausführliche Zitierung nicht verfügbar]
+
+ "Die deutsche EU-Ratspräsidentschaft hat einen schlechten Kompromiss auf Kosten des Klimas und der Artenvielfalt gemacht", kritisierte der Grünen-Politiker.
+Der Beschluss der Regierungen untergrabe die Ziele des Europäischen "Green Deal". Im Angesicht von <B>Klimakrise</> und Artensterben sei diese Agrarreform ein "Armutszeugnis". Giegold: "Diese Agrarreform stellt die Weichen für die Zuspitzung der Klimakrise.
+Harsche Kritik kam auch von der ÖDP, von "Fridays For Future" und zahlreichen Umweltverbänden.
+
+NUN20/OKT.01397 Nürnberger Nachrichten, 22.10.2020, S. 17; Öko-Wende oder Mogelpackung? Europas Agrarreform nimmt konkrete Züge an &#8211; mehr Geld für Höfe, auf denen klimaschonend gewirtschaftet wird [Ausführliche Zitierung nicht verfügbar]
+
+ "Die deutsche EU-Ratspräsidentschaft hat einen schlechten Kompromiss auf Kosten des Klimas und der Artenvielfalt gemacht", kritisierte der Grünen-Politiker.
+Der Beschluss der Regierungen untergrabe die Ziele des Europäischen "Green Deal". Im Angesicht von Klimakrise und Artensterben sei diese Agrarreform ein "Armutszeugnis". Giegold: "Diese Agrarreform stellt die Weichen für die Zuspitzung der <B>Klimakrise.</>
+Harsche Kritik kam auch von der ÖDP, von "Fridays For Future" und zahlreichen Umweltverbänden.
+
+NUN20/OKT.01730 Nürnberger Nachrichten, 28.10.2020, S. 17; Ideen aus Franken beseitigen den Klimakiller - Mit neuartigen Entwicklungen aus Erlangen und Bayreuth lässt sich Kohlendioxid leichter aus Abgasen herauslösen und in nützliche Rohstoffe umwandeln [Ausführliche Zitierung nicht verfügbar]
+
+Ideen aus Franken beseitigen den Klimakiller
+VON ERIK STECHERNÜRNBERG- Kohlendioxid gilt als Hauptursache für die <B>Klimakrise.</>Doch zwei Entwicklungen aus Franken könnten erheblich dazu beitragen, das Problem in den Griff zu kriegen.
+
+NUN20/OKT.01901 Nürnberger Nachrichten, 31.10.2020, S. 1; My dear [FETT HZ]America[/FETT HZ] . . . [Ausführliche Zitierung nicht verfügbar]
+
+ Mutter Erde und ihre Bewohner zu achten, frei zu sein und über allem Liebe leuchten zu lassen. Eine große Hinterlassenschaft, die wir wieder leben: in Nachhaltigkeit, im Protest gegen die Inaktivität in der <B>Klimakrise,</> in Lebensentwürfen. Und nicht zuletzt in der Fridays-for-Future-Bewegung.
+
+NUN20/NOV.00365 Nürnberger Nachrichten, 05.11.2020, S. 5; &#8222;Schicksalswahl für den Klimaschutz&#8220; Das historische Pariser Klimaabkommen wird fünf Jahre alt [Ausführliche Zitierung nicht verfügbar]
+
+ Bisher reichen die Pläne der Staaten für das Einsparen von Treibhausgasen noch längst nicht aus, um das Zwei-Grad-Ziel zu schaffen.
+Die Folgen der <B>Klimakrise</> sind nach Einschätzung vieler Experten bereits weltweit spürbar. Dazu gehören etwa ein Anstieg der Meeresspiegel, ein höheres Risiko von Dürren, Hitzewellen, schweren Stürmen und Überschwemmungen, aber auch das Abschmelzen von Gletschern und der Eisflächen an den Polen oder das Absterben von Korallenriffen.
+
+NUN20/NOV.01001 Nürnberger Nachrichten, 16.11.2020, S. 20; &#8222;Wir Deutschen klagen auf sehr hohem Niveau&#8220; Der Münchner Soziologe ARMIN NASSEHI über die Corona-Proteste und die Polarisierung in den Vereinigten Staaten nicht erst seit den Wahlen [Ausführliche Zitierung nicht verfügbar]
+
+ So funktionieren Gesellschaften nicht. Man bezog das ja gern auf die <B>Klimakrise:</> Wenn man bei Corona so durchregiert, dann muss man das beim Klima einfach auch machen ... und so weiter. Das Charakteristische an dieser Krise ist, dass es eher eine punktuelle, eine akute Krise ist - eine, von der wir sagen und hoffen, dass sie bald wieder vorbei ist.
+
+NUN20/NOV.01001 Nürnberger Nachrichten, 16.11.2020, S. 20; &#8222;Wir Deutschen klagen auf sehr hohem Niveau&#8220; Der Münchner Soziologe ARMIN NASSEHI über die Corona-Proteste und die Polarisierung in den Vereinigten Staaten nicht erst seit den Wahlen [Ausführliche Zitierung nicht verfügbar]
+
+ Deshalb geht das auch mit diesem starken Durchregieren. Die <B>Klimakrise</> aber gibt es seit Anfang der 1970er Jahre, sie wird uns auch die nächsten Jahrzehnte begleiten. Das ist eher eine chronische, keine akute Krise - wie eine chronische Krankheit, an die wir uns irgendwie gewöhnt haben.
+
+NUN20/NOV.01914 Nürnberger Nachrichten, 30.11.2020, S. 19; Utopie Weltregierung - Unternehmer und Klimaaktivist Dirk Rossmann hat einen Ökothriller geschrieben: &#8222;Der neunte Arm des Oktopus&#8220; [Ausführliche Zitierung nicht verfügbar]
+
+ 1991 gründete er mit Erhard Schreiber die Deutsche Stiftung Weltbevölkerung und im vergangenen Jahr verschenkte er in der Sendung "Maischberger" 25 000 Exemplare von Jonathan Safran Foers "Wir sind das Klima", in dem der Autor erklärt, wie wir die Welt retten, wenn wir weniger Fleisch essen.
+Jetzt hat der Mann, der 1972 in Deutschland den ersten Drogeriemarkt mit Selbstbedienung gründete und heute 4100 Filialen und sieben Auslands-Gesellschaften betreibt, selbst ein Buch geschrieben, in dem es um die <B>Klimakrise</> geht: "Der neunte Arm des Oktopus" heißt es, und ist ein Thriller. Im Dezember vergangenen Jahres sei er jede Nacht gegen vier Uhr aufgewacht, sagt Rossmann.
+
+NUN20/DEZ.00341 Nürnberger Nachrichten, 05.12.2020, S. 5; KURZ BERICHTET [Ausführliche Zitierung nicht verfügbar]
+
+ In dem Gebäude ist auch die Deutsche Botschaft untergebracht. "Mit Vollgas in die <B>Klimakrise</> - Bundesregierung: stoppt die A 49", stand auf dem Banner. Die von den Aktivisten verwendete Formulierung, die Deutsche Botschaft sei besetzt worden, wies ein Sprecher zurück.
+
+NUN20/DEZ.00680 Nürnberger Nachrichten, 11.12.2020, S. 9; STANDPUNKT - Versprechen und Fordern genügt nicht - Während der Corona-Pandemie sind E-Mobilität und Klimakrise in den Hintergrund geraten [Ausführliche Zitierung nicht verfügbar]
+
+ Das ist ein Fehler. Denn die <B>Klimakrise</> greift jeden Tag weiter um sich. Und dagegen gibt es keine Impfung, nur entschlossenes Handeln.
+
+NUN20/DEZ.00680 Nürnberger Nachrichten, 11.12.2020, S. 9; STANDPUNKT - Versprechen und Fordern genügt nicht - Während der Corona-Pandemie sind E-Mobilität und Klimakrise in den Hintergrund geraten [Ausführliche Zitierung nicht verfügbar]
+
+
+hartmut.voigt@pressenetz.de
+Während der Corona-Pandemie sind E-Mobilität und <B>Klimakrise</> in den Hintergrund geraten
+
+NUN20/DEZ.00684 Nürnberger Nachrichten, 11.12.2020, S. 12; &#8222;Klimakatastrophe mit allen Mitteln abwenden&#8220; Aktivist Achim Scheidl von Extinction Rebellion hat vom Christkind nur einen wichtigen Wunsch [Ausführliche Zitierung nicht verfügbar]
+
+ Heute: Achim Scheidl, Mitbegründer von Extinction Rebellion Nürnberg
+"Es gibt nur einen entscheidenden Wunsch für mich: Dass die Politiker endlich die Brisanz der <B>Klimakrise</> begreifen und alle, wirklich alle, Entscheidungen danach ausrichten, die Klimakatastrophe doch noch abzuwenden.
+Der Klimawandel ist nicht in weit entfernten Ländern, man kann seine Spuren auch deutlich bei uns feststellen: zum Beispiel an braunen Wipfeln und sich lichtenden Kronen von Bäumen im Reichswald.
+
+NUN20/DEZ.01702 Nürnberger Nachrichten, 31.12.2020, S. 6; Da war doch mal was mit diesem Klima, oder? Hat Corona den Kampf gegen den Klimawandel erschwert [Ausführliche Zitierung nicht verfügbar]
+
+
+Andere Krisen lassen sich nicht ausblenden. Die <B>Klimakrise</> ist nicht verschwunden, sondern sie verschärft sich. Sie hat massive wirtschaftliche Auswirkungen, gerade auch für die Landwirtschaft.
+
+NUN20/DEZ.01702 Nürnberger Nachrichten, 31.12.2020, S. 6; Da war doch mal was mit diesem Klima, oder? Hat Corona den Kampf gegen den Klimawandel erschwert [Ausführliche Zitierung nicht verfügbar]
+
+
+Es ist schwer zu sagen, ob ohne Corona mehr für das Klima getan worden wäre. Die <B>Klimakrise</> ist ja nicht erst seit 2020 bekannt. Der Wille in den politischen Gremien fehlt.
+
+NUN20/DEZ.01702 Nürnberger Nachrichten, 31.12.2020, S. 6; Da war doch mal was mit diesem Klima, oder? Hat Corona den Kampf gegen den Klimawandel erschwert [Ausführliche Zitierung nicht verfügbar]
+
+ 2021 wollen wir uns für einen Kohle-Ausstieg spätestens 2030 einsetzen und vor der Bundestagswahl verstärkt unsere Forderungen präsentieren. Schon jetzt sterben viele Menschen an der <B>Klimakrise.</>
+Hat Corona den Kampf gegen den Klimawandel erschwert?
+
+NUN20/DEZ.01731 Nürnberger Nachrichten, 31.12.2020, S. 13; Bund Naturschutz - Verband fordert erneut höhere Abschussquote [Ausführliche Zitierung nicht verfügbar]
+
+ Kleine Bäume könnten nicht ohne zusätzliche Schutzmaßnahmen wachsen und dadurch der Waldumbau vorangetrieben werden, weil sie unter dem Verbiss durch Rehe, Hirsche und Gams leiden. Laut Bund Naturschutz sind die Wälder von der <B>Klimakrise</> - durch Hitze und Trockenheit - am stärksten betroffen. Der Wald kann seine Aufgabe, den Boden und vor Hochwasser zu schützen, aber nicht mehr erfüllen.
+
+________________________________________________________________________________
+Zusammensetzung des aktiven Korpus
+
+Korpus-Ansicht, 4 Einträge, nach »Korpus« aufsteigend sortiert.
+
+      Texte     Wörter Jahrgänge Korpus                            
+
+     28.766 10.046.738 2017-2017 NUN17 Nürnberger Nachrichten 2017
+     28.009 10.103.358 2018-2018 NUN18 Nürnberger Nachrichten 2018
+     26.062  8.413.237 2019-2019 NUN19 Nürnberger Nachrichten 2019
+     21.974  7.220.622 2020-2020 NUN20 Nürnberger Nachrichten 2020
+
+    104.811 35.783.955 2017-2020 4 Korpora                        
